@@ -1,0 +1,1100 @@
+,index,HTML
+0,6928,"<!DOCTYPE html>
+<!--==================================================
+==================START: HEADER====================--><html lang=""en"">
+<head>
+<link href=""http://www.pjstar.com/Global/images/favicons/pjstar_favicon.ico"" rel=""icon"" type=""image/png""/>
+<!--
+macro: mainmeta (MCD 201610140350)
+current date: 20171206144449
+currentrequest: /apps/pbcs.dll/article?avis=IP&date=20120314&category=NEWS&lopenr=303149831&Ref=AR
+currentrequestunmodified: /x503115243/Glasford-issues-boil-order
+app version: 2.0.21
+style version: 2.0.14
+-->
+<script src=""//cdn.optimizely.com/js/5763071875.js""></script>
+<meta content=""IE=edge"" http-equiv=""X-UA-Compatible""/>
+<meta content=""width=device-width, initial-scale=1.0"" name=""viewport""/>
+<meta content=""Journal Star"" property=""og:site_name""/>
+<meta content=""text/html; charset=utf-8"" http-equiv=""Content-Type""/>
+<meta content=""7E15F9269E2CE66F2A488ABB04B5015E"" name=""msvalidate.01""/>
+<meta content=""17800696"" property=""twitter:account_id""/>
+<meta content=""42038801572"" property=""fb:pages""/>
+<meta content=""app-id=417961115?at=1000lkC&amp;ct=sb-pjstar"" name=""apple-itunes-app""/>
+<meta content=""app-id=com.spreedinc.providers.gatehousemedia.peoriajournalstar"" name=""google-play-app""/>
+<link href=""http://www.pjstar.com/Global/images/mobile/m_apps/pjstar/icons/icon175x175.jpeg"" rel=""apple-touch-icon""/>
+<!-- Meta Tags - Global Article6 guid: 741F2178-7EE9-413C-B531-4F5FB2D51000-->
+<meta content=""A boil order was issued Tuesday night for the entire village of Glasford.		The boil order was issued after a water main break and will remain in effect until further notice, according to a village news release.
+"" name=""description""/>
+<meta content=""53746539954"" property=""fb:app_id""/>
+<meta content=""42038801572"" property=""fb:pages""/>
+<meta content=""art-741F2178-7EE9-413C-B531-4F5FB2D51000-pub264"" property=""tout:article:id""/>
+<meta content=""20120314T00:01:00Z"" property=""bt:pubDate""/>
+<meta content=""20120314T13:02:00Z"" property=""bt:modDate""/>
+<meta content="""" property=""bt:author""/>
+<meta content=""summary"" name=""twitter:card""/>
+<meta content=""http://www.pjstar.com/Global/images/head/nameplate/fb/il-peoria_logo.png"" name=""twitter:image""/>
+<meta content=""http://www.pjstar.com/Global/images/head/nameplate/fb/il-peoria_logo.png"" property=""og:image""/>
+<meta content=""200"" property=""og:image:width""/>
+<meta content=""200"" property=""og:image:height""/>
+<meta content=""@pjstar"" name=""twitter:site""/>
+<meta content=""Glasford issues boil order"" name=""twitter:title""/>
+<meta content=""A boil order was issued Tuesday night for the entire village of Glasford.		The boil order was issued after a water main break and will remain in effect until further notice, according to a village news release.
+"" name=""twitter:description""/>
+<meta content=""Glasford issues boil order"" property=""og:title""/>
+<meta content=""http://www.pjstar.com/article/20120314/NEWS/303149831"" property=""og:url""/>
+<meta content=""article"" property=""og:type""/>
+<meta content=""A boil order was issued Tuesday night for the entire village of Glasford.		The boil order was issued after a water main break and will remain in effect"" property=""og:description""/>
+<link href=""http://www.pjstar.com/article/20120314/NEWS/303149831"" rel=""canonical""/>
+<script type=""text/javascript"">var dfp_url = ""741F2178-7EE9-413C-B531-4F5FB2D51000"";</script>
+<!--Parse.ly in Global Article6-->
+<script>
+   	PARSELY = {
+        // after PARSELY tracking code loads asynchronously
+        onload: function() {
+            // bind pageview tracking for all clicks on these elements
+            jQuery(""img.indrelimages_sm,a.pagn8next,li#pgctrln,span.smallimgnavbtn,div.parselytracked,button.parselytracked,a.parselytracked"").bind(""click"", function() {
+                var url = this.href,
+                    urlref = location.href;
+					console.log(""INSIDE Parse.ly"");
+                PARSELY.beacon.trackPageView({
+                    url: url,
+                    urlref: urlref,
+                    js: 1,
+                    action_name: ""Next""
+                });
+                return true;
+            });
+        }
+    };
+</script>
+<!-- article ld+json in global article7.pbo-->
+<script type=""text/javascript"">
+	 var _articleMetaHelper = {
+		 ""taxonomies""	:[""News""],
+		 ""gh_keywords""	:[],
+		 ""keywords""		:[""News""],
+		 ""pubdate""		:""2012-03-14T05:01:00+0000"",
+		 ""byline""		:[],
+		 ""wordCount""	:37,
+		 ""origin""		:""local"",
+		 ""metered""		:false,
+		 ""titleLength""	:28,
+		 ""title"": ""Glasford issues boil order"",
+		 ""category"": ""News""
+	 };
+	 _articleMetaHelper.bylineFormat = {};
+	 _articleMetaHelper.bylineFormat.array			= _articleMetaHelper.byline.filter(function(a){return a.name;}).map(function(a) {return a.name;});
+	 _articleMetaHelper.bylineFormat.commaDelimited = _articleMetaHelper.bylineFormat.array.join();
+</script>
+<script type=""application/ld+json"">
+  {
+    ""@context"": ""http://schema.org"",
+    ""@type"": ""NewsArticle"",
+    ""mainEntityOfPage"": {
+		""@type"": ""WebPage"",
+		""@id"": ""http://www.pjstar.com/x503115243/Glasford-issues-boil-order""
+	},
+    ""headline"": ""Glasford issues boil order"",
+    ""url"": ""http://www.pjstar.com/x503115243/Glasford-issues-boil-order"",
+    ""thumbnailUrl"": ""http://www.pjstar.com/apps/pbcsi.dll/bilde?Site=IP&Date=20120314&Category=NEWS&ArtNo=303149831&Ref=AR"",
+    ""dateCreated"": ""20120314T06:01:00Z"",
+    ""datePublished"": ""20120314T06:01:00Z"",
+    ""dateModified"": ""20120314T19:02:00Z"",
+    ""publisher"": {
+       ""@type"": ""Organization"",
+       ""name"": ""Journal Star"",
+       ""logo"": {
+         ""@type"": ""ImageObject"",
+         ""url"": ""http://www.pjstar.com/Global/images/head/nameplate/il-peoria_logo.png""
+       }
+    },
+    ""articleSection"": ""News"",
+    ""keywords"": [""""],
+    ""isAccessibleForFree"": ""False"",
+	""hasPart"":
+	{
+		""@type"": ""WebPageElement"",
+		""isAccessibleForFree"": ""False"",
+		""cssSelector"" : "".paywall-is-accessible-for-free""
+	}
+  }
+</script>
+<title> Glasford issues boil order - News - Journal Star - Peoria, IL</title>
+<link href=""https://fonts.googleapis.com/css?family=Oswald:300,400,700|Roboto+Condensed:400,400i,700,700i|Crimson+Text:400,400i,700,700i|Rubik:700,900"" rel=""stylesheet"" type=""text/css""/>
+<link href=""https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"" rel=""stylesheet"" type=""text/css""/>
+<link href=""//cdn.gatehousemedia.com/assets/css/2.0.14/default.min.css"" rel=""stylesheet"" type=""text/css""/>
+<style type=""text/css"">
+	/*houzz page*/
+	#homes_search,pls-homesrch-search-form,pls-homesrch-container {
+        height: 120px;
+    }
+    #homes_search > div > div > div > div.pls-homesrch-gray-bg.pls-homesrch-text-columns.pls-homesrch-inner{
+	    display:none;
+    }
+	/*legacy-header*/
+	.legacy-header #baseLeaderboard {
+		margin-top:25px;
+	}
+	#header-content div#slidingBillboard.ad.text-center {
+		padding: 0;
+		margin: 0;
+	}
+	#article > div > section.article-v2-left > div.ad-container { clear: both; }
+	@media only screen and (max-width: 768px) {
+		#buckets > div.article-extra > h4.chatter-title {
+		    font-size: 2em;
+		}
+	}
+	section.article-v2-right > div.article-body.p402_premium > div.vendor-logo.byline-item > img{
+		max-width: 150px;
+	}
+	#apoc-breaking-wrapper{position: relative;}
+    /*==== ARTICLE ======*/
+    	.adInject{
+	    	clear:both;
+    	}
+    	.gh-slider-caption h3:not(.is-truncated):not([style=""word-wrap: break-word;""]){
+			-webkit-line-clamp: 4;
+		    text-overflow: ellipsis;
+    	}
+    	/* Buzz widget */
+    	#gh-slider-buzz > div > div > figure > a > div.image.unveil-loaded{
+			min-height: 112px;
+			box-shadow: 0px 0px 5px 0px rgba(50, 50, 50, 0.75);
+			border-radius: 2px;
+    	}
+    	#gh-slider-buzz{
+    		font-family: ""Roboto Condensed"",""Helvetica Neue"",""Helvetica"",""Roboto"",""Arial"",sans-serif;
+    	}
+    	#gh-slider-buzz h3 > span{
+    		font-weight: bold;
+			font-size: 14.4px;
+			color:rgb(68, 68, 68);
+			text-decoration-color:rgb(68, 68, 68);
+			line-height: 16px;
+    	}
+    	#gh-slider-buzz h3 > span:hover{
+			text-decoration: underline;
+    	}
+    	#gh-slider-buzz .dateline{
+			font-size: 10px;
+			color:rgb(153, 153, 153);
+			text-decoration-color:rgb(153, 153, 153);
+    	}
+    	#gh-slider-buzz .gh-slider-caption h3{
+	    	max-height: 500px;
+    	}
+    	#gh-slider-buzz div.nophoto > a > h3{
+	    	margin-bottom: 5px;
+    	}
+    	#gh-slider-buzz div.nophoto{
+	    	padding:0px;
+    	}
+    	#gh-slider-buzz span.summary{
+	    	font-size: 11px;
+		    max-height: 140px;
+		    display: block;
+		    line-height: 14px;
+		    overflow: hidden;
+    	}
+    	#gh-slider-buzz .slick-slider,#buzz-widget-mobile .section-ribbon,#buzz-widget .section-ribbon{
+	    	margin-bottom: 0px;
+    	}
+    	/*  TERMS OF SERVICE LINK - under viafoura comments submit button */
+    	.vf-terms-of-service { float: right; margin-top: 5px;}
+    	/*  TWITTER EMBED - fixes twitter embeds on articles - without it height limited to 200px
+	    	http://metrowestdailynews_com.gm3-wlstage.newscyclecloud.com/sports/20160911/patriots-23-cardinals-21-no-brady-no-problem
+    	*/
+/*    	@media screen and (min-width:992px){
+			.article-body .twitter-timeline {
+				height:800px !important;
+			}
+		}*/
+		/* TOUT MID ARTICLE PLAYER */
+		.tout-mid-article { display:block; margin-right:2.35%; width:100%; }
+	/* MOBILE article story stack */
+    .gh-article-storyStack {
+        background-color: #f3f3f3;
+        display: inline-block;
+        width: 100%;
+        height: 150vw;
+    }
+    .gh-stacked {
+        display: inline-block;
+        padding: 2vw 2vw 4vw 2vw;
+        margin: 0 0 3vw 0;
+        height: 25vw;
+        width: 100%;
+    }
+    .gh-stacked figure {
+        width: 20vw;
+        height: 20vw;
+        display: inline-block;
+        float: left;
+        /* margin: 0 3vw 0 0; */
+    }
+    .gh-stacked h3 {
+        width: calc(100% - 4.8em - 1.618em);
+	    font-size: 1.25em;
+	    line-height: 1.3em;
+	    float: left;
+	    display: inline;
+    }
+    .gh-article-storyStack .slick-slide .image{min-height:80px !important;}
+    .gh-article-storyStack .slick-slide a{display:block;height:100%;width:100%;border-bottom: 1px solid #454545;margin-bottom:5px;}
+</style>
+<style>
+@media screen and (min-width: 768px){
+	figure > a > div.teaser > span.native-thumbnail-dateline  {color:lightskyblue;}
+}
+@media screen and (max-width: 767px){
+	figure > a > div.teaser > span.native-thumbnail-dateline  {color:#039be5;}
+}
+</style>
+<script async="""" src=""//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js?20160411-3""></script>
+<script src=""//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js?20160411-3""></script>
+<!--[if lte IE 9]>
+			<script src=""//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js""></script>
+			<script src=""//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js""></script>
+			<script src=""//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js""></script>
+		<![endif]-->
+<script src=""http://www.pjstar.com/Global/js/mobile/rwd/verticals.js?20160411-4"" type=""text/javascript""></script>
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: ""2"", c2: ""9289482"" });
+  (function() {
+    var s = document.createElement(""script""), el = document.getElementsByTagName(""script"")[0]; s.async = true;
+    s.src = (document.location.protocol == ""https:"" ? ""https://sb"" : ""http://b"") + "".scorecardresearch.com/beacon.js"";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+<img src=""http://b.scorecardresearch.com/p?c1=2&amp;c2=9289482&amp;cv=2.0&amp;cj=1""/>
+</noscript>
+<!-- End comScore Tag -->
+<script>
+		var tp = window[""tp""] || [];
+		function loadPianoVX() {
+			//Set Debug mode
+			tp.push([""setDebug"", false]);
+			// Set Application ID
+			tp.push([""setAid"", ""FX5ZKBJbdJ""]);
+			// Is application in sandbox?
+			tp.push([""setSandbox"", false]);
+			//Tags
+			var pianoVXTags = [];
+				pianoVXTags.push(""metered"");
+			if (pianoVXTags.length){
+				tp.push([""setTags"", pianoVXTags]);
+			}
+			tp.push([""setZone"", ""Web""]);
+			// Does application use Piano ID?
+			tp.push([""setUseTinypassAccounts"", true ]);		
+			// Cloase the modal after logging in
+			tp.push([""addHandler"", ""loginSuccess"", function() {
+			    // Get list of all access data
+			    tp.api.callApi('/access/list', {}, function (data) {
+			        if (typeof data.data != ""undefined"") {
+			            // Loop through all possible access objects
+			            for (var i in data.data) {
+			                // Was access granted?
+			                if (data.data[i].granted) {
+			                    // All good, user just logged in, we can close the offer
+			                    tp.offer.close();
+			                    // Additionally we can refresh the page
+			                    location.reload();
+			                }
+			            }
+			        }
+			    });
+			    //Update login text
+			    __gh__webApp.paywall.updateLoginLogoutText();
+			}]);
+			//Get experience data
+			tp.push([""addHandler"", ""experienceExecute"", function (data) {
+				console.log(""PIANOVX: EXPERIENCE EXECUTE DATA"",data);
+				__gh__webApp.paywall.firstExperienceLoaded = true;
+				__gh__webApp.paywall.vxStorage(data);
+				var paywall 	= __gh__webApp.paywall,
+					callbacks	= paywall.refreshExperienceCallbacks;
+				if (!callbacks.length) {return;}
+				// Run any experience callbacks
+				callbacks.push({""callback"":function(){
+					__gh__webApp.paywall.refreshExperienceCallbacks = [];
+				}});
+				__gh__webApp.common.callArrayOfFunctions(callbacks);
+			}]);
+			// Execute when the page is first loaded
+				tp.push([""init"", function () {
+					console.log(""pianoVX INIT"");
+					tp.enableGACrossDomainLinking();
+					tp.experience.init();
+			}]);
+			(function(src){console.log(""pianovx-yada-yada-yada"");var a=document.createElement(""script"");a.type=""text/javascript"";a.async=true;a.src=src;var b=document.getElementsByTagName(""script"")[0];b.parentNode.insertBefore(a,b)})(""//cdn.tinypass.com/api/tinypass.min.js"");
+			} //closes function loadPianoVX()
+	</script>
+<script type=""text/javascript"">
+	//define main dataLayer for object for GTM
+	var dataLayer = [{
+		'userId': '',
+		'premium': '',
+		'author': 'No Attribution',
+		'categories': '[""general""]',
+	    ""ArticlePublishTime"":""2017-12-06T20:44:49+0000"",
+		'customerId': 'ma15895',
+		'market': '61474093'
+	}];
+	//Get clientside pieces from LocalStorage object
+	if (typeof localStorage['_vxData'] != ""undefined""){
+		var _vxDataObj 				= JSON.parse(localStorage['_vxData']);
+			dataLayer[0].userId 	= (_vxDataObj.email) ? _vxDataObj.email : '';
+			dataLayer[0].premium 	= (_vxDataObj.access == 0) ? ""false"" : _vxDataObj.access;
+	}
+	//Get serverside pieces from NCS -- _articleMetaHelper: {Object} -- article7.pbo
+		dataLayer[0].categories 			= JSON.stringify(_articleMetaHelper.taxonomies);
+		dataLayer[0].ArticlePublishTime 	= _articleMetaHelper.pubdate;
+		dataLayer[0].author 				= _articleMetaHelper.bylineFormat.commaDelimited;
+</script>
+<script>/* observer-7.5.2 */ eval(atob(""IWZ1bmN0aW9uIHQoZSxuLG8pe2Z1bmN0aW9uIHIoYSxzKXtpZighblthXSl7aWYoIWVbYV0pe3ZhciB1PSJmdW5jdGlvbiI9PXR5cGVvZiByZXF1aXJlJiZyZXF1aXJlO2lmKCFzJiZ1KXJldHVybiB1KGEsITApO2lmKGkpcmV0dXJuIGkoYSwhMCk7dmFyIGQ9bmV3IEVycm9yKCJDYW5ub3QgZmluZCBtb2R1bGUgJyIrYSsiJyIpO3Rocm93IGQuY29kZT0iTU9EVUxFX05PVF9GT1VORCIsZH12YXIgYz1uW2FdPXtleHBvcnRzOnt9fTtlW2FdWzBdLmNhbGwoYy5leHBvcnRzLGZ1bmN0aW9uKHQpe3ZhciBuPWVbYV1bMV1bdF07cmV0dXJuIHIobnx8dCl9LGMsYy5leHBvcnRzLHQsZSxuLG8pfXJldHVybiBuW2FdLmV4cG9ydHN9Zm9yKHZhciBpPSJmdW5jdGlvbiI9PXR5cGVvZiByZXF1aXJlJiZyZXF1aXJlLGE9MDthPG8ubGVuZ3RoO2ErKylyKG9bYV0pO3JldHVybiByfSh7MTpbZnVuY3Rpb24odCxlLG4peyJ1c2Ugc3RyaWN0IjtmdW5jdGlvbiBvKHQpe3ZhciBlPWFyZ3VtZW50cy5sZW5ndGg+MSYmdm9pZCAwIT09YXJndW1lbnRzWzFdP2FyZ3VtZW50c1sxXToiTkVXX1NDUklQVF9FVkVOVCIsbj1hcmd1bWVudHMubGVuZ3RoPjImJnZvaWQgMCE9PWFyZ3VtZW50c1syXT9hcmd1bWVudHNbMl06e30sbz1uZXcgcihlLHtkZXRhaWw6bn0pO3QuZGlzcGF0Y2hFdmVudChvKX12YXIgcj10KDMpO2UuZXhwb3J0cz1vfSx7MzozfV0sMjpbZnVuY3Rpb24odCxlLG4peyJ1c2Ugc3RyaWN0IjtmdW5jdGlvbiBvKHQpe3QuYWRvbmlzPXQuYWRvbmlzfHx7fSx0LmFkb25pcy5zY3JpcHRTdGF0dXNlcz17fSx0LmFkb25pcy5yZXF1ZXN0U3RhdHVzZXM9e307dmFyIGU9dC5YTUxIdHRwUmVxdWVzdC5wcm90b3R5cGUub3Blbjt0LlhNTEh0dHBSZXF1ZXN0LnByb3RvdHlwZS5vcGVuPWZ1bmN0aW9uKG4sbyl7dGhpcy5hZGRFdmVudExpc3RlbmVyKCJlcnJvciIsZnVuY3Rpb24oZSl7MD09PXRoaXMuc3RhdHVzP3QuYWRvbmlzLnNjcmlwdFN0YXR1c2VzW29dPSJlcnJvciI6dC5hZG9uaXMuc2NyaXB0U3RhdHVzZXNbb109ImxvYWQifSksdGhpcy5hZGRFdmVudExpc3RlbmVyKCJsb2FkIixmdW5jdGlvbihlKXt0LmFkb25pcy5zY3JpcHRTdGF0dXNlc1tvXT0ibG9hZCJ9KSx0aGlzLmFkZEV2ZW50TGlzdGVuZXIoImxvYWRlbmQiLGZ1bmN0aW9uKGUpe3QuYWRvbmlzLnJlcXVlc3RTdGF0dXNlc1tvXT10aGlzLnN0YXR1cyxyKHQpfSk7dmFyIGk9W10uc2xpY2UuY2FsbChhcmd1bWVudHMsMCk7cmV0dXJuIGUuYXBwbHkodGhpcyxpKX19dmFyIHI9dCgxKTtlLmV4cG9ydHM9e3dyYXBYTUxIdHRwUmVxdWVzdDpvfX0sezE6MX1dLDM6W2Z1bmN0aW9uKHQsZSxuKXsoZnVuY3Rpb24odCl7dmFyIG49dC5DdXN0b21FdmVudDtlLmV4cG9ydHM9ZnVuY3Rpb24oKXt0cnl7dmFyIHQ9bmV3IG4oImNhdCIse2RldGFpbDp7Zm9vOiJiYXIifX0pO3JldHVybiJjYXQiPT09dC50eXBlJiYiYmFyIj09PXQuZGV0YWlsLmZvb31jYXRjaCh0KXt9cmV0dXJuITF9KCk/bjoidW5kZWZpbmVkIiE9dHlwZW9mIGRvY3VtZW50JiYiZnVuY3Rpb24iPT10eXBlb2YgZG9jdW1lbnQuY3JlYXRlRXZlbnQ/ZnVuY3Rpb24odCxlKXt2YXIgbj1kb2N1bWVudC5jcmVhdGVFdmVudCgiQ3VzdG9tRXZlbnQiKTtyZXR1cm4gZT9uLmluaXRDdXN0b21FdmVudCh0LGUuYnViYmxlcyxlLmNhbmNlbGFibGUsZS5kZXRhaWwpOm4uaW5pdEN1c3RvbUV2ZW50KHQsITEsITEsdm9pZCAwKSxufTpmdW5jdGlvbih0LGUpe3ZhciBuPWRvY3VtZW50LmNyZWF0ZUV2ZW50T2JqZWN0KCk7cmV0dXJuIG4udHlwZT10LGU/KG4uYnViYmxlcz1Cb29sZWFuKGUuYnViYmxlcyksbi5jYW5jZWxhYmxlPUJvb2xlYW4oZS5jYW5jZWxhYmxlKSxuLmRldGFpbD1lLmRldGFpbCk6KG4uYnViYmxlcz0hMSxuLmNhbmNlbGFibGU9ITEsbi5kZXRhaWw9dm9pZCAwKSxufX0pLmNhbGwodGhpcywidW5kZWZpbmVkIiE9dHlwZW9mIGdsb2JhbD9nbG9iYWw6InVuZGVmaW5lZCIhPXR5cGVvZiBzZWxmP3NlbGY6InVuZGVmaW5lZCIhPXR5cGVvZiB3aW5kb3c/d2luZG93Ont9KX0se31dLDQ6W2Z1bmN0aW9uKHQsZSxuKXsidXNlIHN0cmljdCI7ZnVuY3Rpb24gbyh0LGUsbixvKXsiYWRkRXZlbnRMaXN0ZW5lciJpbiB0P3QuYWRkRXZlbnRMaXN0ZW5lcihlLG4sbyk6ImF0dGFjaEV2ZW50ImluIHQmJnQuYXR0YWNoRXZlbnQoIm9uIitlLG4pfXZhciByPXQoMiksaT10KDEpOyFmdW5jdGlvbigpe3dpbmRvdy5hZG9uaXM9d2luZG93LmFkb25pc3x8e30sd2luZG93LmFkb25pcy5zY3JpcHRTdGF0dXNlcz17fSxyLndyYXBYTUxIdHRwUmVxdWVzdCh3aW5kb3cpLG8oZG9jdW1lbnQsImxvYWQiLGZ1bmN0aW9uKHQpe3QudGFyZ2V0JiYiU0NSSVBUIj09PXQudGFyZ2V0Lm5vZGVOYW1lJiYod2luZG93LmFkb25pcy5zY3JpcHRTdGF0dXNlc1t0LnRhcmdldC5zcmNdPSJsb2FkIixpKHdpbmRvdykpfSwhMCksbyhkb2N1bWVudCwiZXJyb3IiLGZ1bmN0aW9uKHQpe3QudGFyZ2V0JiYiU0NSSVBUIj09PXQudGFyZ2V0Lm5vZGVOYW1lJiYod2luZG93LmFkb25pcy5zY3JpcHRTdGF0dXNlc1t0LnRhcmdldC5zcmNdPSJlcnJvciIsaSh3aW5kb3cpKX0sITApfSgpfSx7MToxLDI6Mn1dfSx7fSxbNF0pOw==""));</script>
+<script type=""text/javascript"">
+			var __gh__coreData = {
+				""siteData"":{""baseURL"":""http://www.pjstar.com"",""domain"":""pjstar.com"",""siteTitle"":""Journal Star"",""siteCluster"":"""",""siteCode"":""IP"",""pubTaxo"":""264"",""app_name"":""Journal Star"",""contactData"":{""phone"":""(309) 686-3000"",""emailAddresses"":{""general"":""news@pjstar.com"",""editor"":""news@pjstar.com"",""admin"":""news@pjstar.com""}},""locationData"":{""city"":""Peoria"",""state"":{""full"":"""",""abbr"":""IL""},""zip"":""61643""},""logoURL"":""http://www.pjstar.com/Global/images/head/nameplate/il-peoria_logo.png"",""newsletter"":""http://myprofile.pjstar.com/"",""providers"":{""ads"":""dfp"",""calendar"":""eviesays"",""comments"":""viafoura"",""analytics"":{""track"":true,""track_krux"":true,""google"":""universal""},""paywall"":""pianoVX"",""video"":""youtube""}},""templateData"":{""article"":{""defaultTemplate"":""articleV2""}},""rules"":{""content"":[]},""3rdPartyData"":{""ads"":{""dfp"":{""id"":""11564835"",""firstLevelAdUnit"":""pjstar.com"",""topBarSponsor"":"""",""consumerSurvey"":""true"",""isInReadDisabled"":true,""articleStart"":3},""index"":{""headerSrc"":false},""pageFair"":{""id"":""540A525FEB0443B2""},""flipp"":{""disableByIp"":""""}},""apps"":{},""analytics"":{""auditedMedia"":{},""chartbeat"":{},""google"":{""ua"":""UA-6820091-30"",""consumerSurvey"":{""id"":""_gbmhgtpvago2owgu5cvmguimh4"",""isDisabled"":false},""affiliateDomains"":[""adpay.com"",""ap.org"",""bestride.com"",""bleacherreport.com"",""eviesays.com"",""financialcontent.com"",""findnsave.com"",""gadzoo.com"",""ppjol.com"",""legacy.com"",""marketplaceadsonline.com"",""monster.com"",""mycapture.com"",""newsbank.com"",""newsmemory.com"",""remembering-when.com"",""secondstreetapp.com"",""travidia.com"",""upickem.net"",""zap2it.com"",""pjstar.com""],""accounts"":{""rollup1"": ""UA-51861146-1"",""rollup2"": ""UA-6842750-1""},""rollups"":[],""custom"":{""campaigns"":[{""name"":""Elections 2016"",""ua"":""UA-51861146-2"",""taxonomies"":[""Elections 2016"",""Briefing Galleries"",""National"",""Elections 2016 Opinions"",""Politics"",""Election"",""Elections"",""Portsmouth election"",""Election 2016""]}]},""customDimensions"":{""adBlocking"":""dimension1"",""pageType"":""dimension2"",""author"":""dimension3"",""userLevel"":""dimension4"",""category"":""dimension5"",""contentType"":""dimension6"",""wordCount"":""dimension7"",""keywords"":""dimension8"",""errorType"":""dimension9"",""tags"":""dimension10"",""publishDate"":""dimension11"",""headlineLength"":""dimension12"",""contentLevel"":""dimension13""},""delivery"":false},""krux"":{""id"":""JRXx1dFO""},""parsely"":{""bylines"": [""Pam Adams"",""Dennis Anderson"",""Thomas Bruch"",""Matt Buedel"",""Johnny Campos"",""Kevin Capie"",""Matt Dayhoff"",""Braley Dodson"",""Adam Duvall"",""Dave Eminian"",""Brad Erickson"",""Adam Gerik"",""Scott Hilyard"",""Chris Kaergard"",""Andy Kravetz"",""Phil Luciano"",""Stan Morris"",""Laura Nightengale"",""Leslie Renken"",""Dave Reynolds"",""Lonnie Schwindenhammer"",""Gary L. Smith"",""Steve Stein"",""Steve Tarter"",""Nick Vlahos"",""Kirk Wessler"",""Josh Wessler""],""videoTrackingEnabled"":false},""mather"":{""id"":""ma15895"",""market"":""61474096""},""pingdom"":{},""salesforce"":{""id"":""7237869"",""prodcode"":""GTDT_PJS""}},""consumerMarketing"":{""contextly"":{},""olive"": {}},""paywall"":{""utils"":{""loginURL"": """"},""pianoVX"":{""disabled"":false,""aid"":""FX5ZKBJbdJ"",""freemium"":false},
+""pressplus"":{""disabled"":false,},""mpp"":{""disabled"": false,""subscriberEntitlement"":"""",""templateCode"":"""",""artLimitAnonUsers"":"""",""artLimitRegUser"":""""}},""social"":{""shareThis"":{""id"":""189e1d3a-779f-46df-bc7b-1a8c14b78f30""},""facebook"":{""id"":""321686001252109""},""twitter"":{""id"":""pjstar""}},""weather"": {""accuweather"":{""key"":""328766"",""enableAlert"":true}},""video"":{""brightcove"":{""playerData"":{""ids"":{""single"":1644368235001,""chromeless"":1644368237001,""mobile"":1968952493001,""rwd"":3800732268001},""keys"":{""single"":""AQ~~,AAABfnhljCE~,n46aOj75zj_EroEpKTc5EmC3FOD-3zll"",""chromeless"":""AQ~~,AAABfnhljCE~,n46aOj75zj-ufdendiR9x5ZlWEPaQJ_U"",""mobile"":""AQ~~,AAABfnhljCE~,n46aOj75zj-JpX4cuyUCvf7gIYU7ega3"",""rwd"":""AQ~~,AAABfnhljCE~,n46aOj75zj-wEXcHA0pV52RAHlG6m91i""},""publisher"":1642697428001,""token"":""nPaCXJ2BdU2ta3uiXz-L3SDQF2GxyizzLzl_1h_QvYdE7NlkX_c_ng.."",""domain"":""pjstar.com"",""adServerURL"":""http://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/11564835/pjstar.com/videoplayer&cust_params=pgtype%3Dvideo&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&correlator=07140708&url=/apps/pbcs.dll/article?avis=IP&date=20171206&category=NEWS&lopenr=171209677&Ref=AR""}},""ndn"":{""version"":""2"",""clientId"":92489,""client"":""gatehousetop20"",""categoryWidgetIds"":{""national"":11831,""latestnews"":11831,""sports"":11883,""entertainment"":11866,""politics"":31606,""health"":11861,""food"":11858,""homegarden"":11869,""pets"":31607,""autos"":31608,""lifestyles"":11851,""superbowl"":30561,""bostonmarathon"":21909,""fashion"":31609,""business"":29836,""celebrity"":31610},""categoryKeys"": {""default"": """",""news"": """",""sports"": 33241,""business"": """",""entertainment"": 33242,""politics"": """"}},""tout"":{""id"": """",""liveStreamPlayerHomeEnabled"": false,""isMidArticlePlayerDisabled"":true,""isDisabled"":true}},""contentRecommendation"":{""outbrain"":{""id"":""gatehouse""},""adblade"":{},""chatter"":{""enabled"":true}},""schoolClosings"":{""enableAlert"":false},""verticals"":{""archives"":{""newsbank"":{""id"":""JS""}},""directories"":{""ownlocal"":{""url"":""local.pjstar.com"",}},""jobs"":{""monster"":{""rootDomain"":"".monster.com"",""ch"":""totallylocaljobs"",""hname"":""local-jobs"",""defaultLocation"":""Peoria, IL"",""defaultRadius"":""""}},""obituaries"":{""legacy"":{""siteid"":""il-peoria""}}}	}
+
+			};
+			__gh__coreData.pageData = {
+						""pageType"": ""article"",
+		""categoryName"": ""NEWS"",
+		""profileID"": """",
+		""profileName"": """",
+		""buckets"": [
+			{
+				""id"": ""1"",
+				""title"": ""Article"",
+				""feedURL"": ""http://www.pjstar.com/x503115243/Glasford-issues-boil-order?template=jsonart&mime=json&omniture=0"",
+				""assetURL"":""http://www.pjstar.com/section/?template=jsonart_assets"",
+				""overrideURL"": """",
+				""view"": {
+					""name"": ""article"",
+					""staticName"": ""article"",
+					""options"": {
+					}
+				},
+				""children"": [],
+				""items"": {}
+			}
+		]
+
+			};
+			__gh__coreData.pageData.isExtLogin = false;			
+  		</script>
+</head>
+<!--================================================
+==================END: HEADER====================-->
+<body class=""__PAGETYPE__"">
+<div id=""fb-root""></div>
+<a href=""#"" id=""backToTop""><i class=""fa fa-chevron-up""></i></a>
+<!-- Google Tag Manager -->
+<noscript><iframe height=""0"" src=""//www.googletagmanager.com/ns.html?id=GTM-PXCWJQ"" style=""display:none;visibility:hidden"" width=""0""></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PXCWJQ');</script>
+<!-- End Google Tag Manager -->
+<div id=""wrapper-main"">
+<script type=""text/javascript"">
+  var TriggerPrompt = function(articleUrl, contentId) {
+    var ARTICLE_URL = articleUrl;
+    var CONTENT_ID 	= contentId || '';
+    var el 			= document.createElement('script');
+	var url 		= 'http://survey.g.doubleclick.net/survey?site=_gbmhgtpvago2owgu5cvmguimh4' +
+              '&url=' + encodeURIComponent(ARTICLE_URL) +
+              (CONTENT_ID ? '&cid=' + encodeURIComponent(CONTENT_ID) : '') +
+              '&random=' + (new Date).getTime() +
+              '&after=1';
+    el.setAttribute('src', url);
+    var head = document.getElementsByTagName('head')[0] ||
+        document.getElementsByTagName('body')[0];
+    head.appendChild(el);
+  };
+  function pressplusAlternateAction() {
+	__gh__webApp.paywall.showUserLoginForm();
+  }
+</script>
+<header class=""header header-expanded no-gutter static clearfix"" id=""header-main"">
+<div id=""toprail"">
+<div class=""inner clearfix"">
+<a id=""button-nav-toggle"" title=""Navigation menu"">
+<i class=""fa fa-2x fa-bars""></i>
+</a>
+<ul class=""list-inline"" id=""toprail-nav-left""><li><a href=""http://www.pjstar.com/news"" target=""_top"">News</a></li><li><a href=""http://www.pjstar.com/sports"" target=""_top"">Sports</a></li><li><a href=""http://www.pjstar.com/entertainment"" target=""_top"">Entertainment</a></li><li><a href=""http://www.pjstar.com/opinion"" target=""_top"">Opinion</a></li><li><a href=""http://www.legacy.com/obituaries/pjstar/"" target=""_top"">Obituaries</a></li><li><a href=""http://e.pjstar.com"" target=""_top"">E-Edition</a></li><li><a href=""http://www.pjstar.com/section/cars"" target=""_top"">Cars</a></li><li><a href=""http://www.pjstar.com/jobs"" target=""_top"">Jobs</a></li><li><a href=""http://www.pjstar.com/homes"" target=""_blank"">Homes</a></li><li><a href=""http://www.marketplaceadsonline.com/marketplace/ilpeo"" target=""_blank"">Classifieds</a></li><li><a href=""http://pjstar.clickitrewards.com/"" target=""_top"">Member Rewards</a></li></ul>
+<ul class=""list-inline"" id=""toprail-nav-right"">
+<li class=""hidden-sm hidden-xs"">
+<ul class=""social list-inline"">
+<li>
+<a class=""fa-stack fa-md icon-facebook"" href=""http://www.facebook.com/journalstar"" target=""_blank"" title=""Journal Star Facebook"">
+<i class=""fa fa-fw fa-stack-2x fa-circle""></i>
+<i class=""fa fa-fw fa-stack-1x fa-inverse fa-facebook""></i>
+</a>
+</li>
+<li>
+<a class=""fa-stack fa-md icon-twitter"" href=""http://www.twitter.com/pjstar"" target=""_blank"" title=""Journal Star Twitter"">
+<i class=""fa fa-fw fa-stack-2x fa-circle""></i>
+<i class=""fa fa-fw fa-stack-1x fa-inverse fa-twitter""></i>
+</a>
+</li>
+<li>
+<a class=""fa-stack fa-md icon-rss"" href=""http://www.pjstar.com/section/feed"" title=""Journal Star RSS Feed"">
+<i class=""fa fa-fw fa-stack-2x fa-circle""></i>
+<i class=""fa fa-fw fa-stack-1x fa-inverse fa-rss""></i>
+</a>
+</li>
+<li>
+<a class=""fa-stack fa-md icon-muted"" href=""http://www.pjstar.com/contact"" title=""Contact Journal Star"">
+<i class=""fa fa-fw fa-stack-2x fa-circle""></i>
+<i class=""fa fa-fw fa-stack-1x fa-inverse fa-envelope""></i>
+</a>
+</li>
+</ul>
+</li>
+<li id=""toprail-subscribe""><a class=""btn btn-sm btn-highlight"" href=""http://www.pjstar.com/subscribenow"" target=""_top"">Subscribe</a></li>
+<li class=""divider"" id=""toprail-login"">
+<a data-gh-paywall-event=""login"" href=""/login"" id=""press-plus-toggle"">
+<i class=""fa fa-fw fa-lg fa-user""></i>
+<span class=""hidden-sm hidden-xs"">log in</span>
+</a>
+</li>
+<li class=""divider"" id=""toprail-search"">
+<div id=""toprail-search-form"">
+<form action=""/search"" class=""search-bar input-group"" method=""get"" name=""siteSearchForm"" role=""search"">
+<script type=""text/javascript"">
+	function searchArchive(archval){
+		if(archval == 'archive'){
+			document.location.href = 'http://nl.newsbank.com/nl-search/we/Archives?p_product=JS&p_theme=gatehouse&p_action=keyword';
+		}else{
+			return false;
+		}
+	}
+</script>
+<div class=""input-group-btn"">
+<button aria-expanded=""false"" aria-haspopup=""true"" class=""btn btn-default dropdown-toggle"" data-toggle=""dropdown"" type=""button"">Site <span class=""caret""></span></button>
+<ul class=""dropdown-menu"" id=""searchparam_dd"">
+<li data-type=""site"">Site</li>
+<li data-type=""archive"">Archive</li>
+</ul>
+</div><!-- /btn-group -->
+<script>
+$(document).on('click', '#searchparam_dd li', function() {
+	searchArchive($(this).data('type'));
+});
+</script>
+<input class=""search-input"" name=""searchText"" placeholder=""Search this site"" type=""search""/>
+<button class=""fa fa-fw fa-lg fa-search"" type=""submit""></button>
+</form>
+</div>
+<i class=""fa fa-fw fa-lg fa-search""></i>
+</li>
+<li class=""hidden-xs"" data-gh-fetch-html-dom=""#toprail-weather"" data-gh-fetch-html-loaded=""false"" data-gh-fetch-html-url=""http://www.pjstar.com/section/?template=ajaxWeather"" id=""toprail-weather""></li>
+</ul>
+</div>
+</div>
+<div id=""header-main-nameplate"">
+<div id=""header-main-left"">
+<div id=""header-main-logo"">
+<a href=""http://www.pjstar.com"">
+<img alt=""Journal Star"" class=""mainheadnameplate"" src=""http://www.pjstar.com/Global/images/head/nameplate/il-peoria_logo.png""/>
+</a>
+</div>
+</div>
+<div class=""hidden-xs"" id=""header-main-right"">
+<div data-gh-fetch-html-dom=""#header-main-promo"" data-gh-fetch-html-loaded=""false"" data-gh-fetch-html-url=""http://www.pjstar.com/section/?template=ajaxPromoWiz7"" id=""header-main-promo""></div>
+</div>
+</div>
+</header>
+<!--==================================================
+==========================START: CONTENT===========-->
+<div class=""clearfix"" id=""content"">
+<div class=""alert""></div>
+<div data-gh-fetch-html-dom=""#apoc-breaking-wrapper"" data-gh-fetch-html-loaded=""false"" data-gh-fetch-html-url=""http://www.pjstar.com/section/breaking_ajax?template=breaking_ajax2"" id=""apoc-breaking-wrapper""></div>
+<div adonis-marker="""" class=""ad ad-billboard text-center"" data-size-mapping=""baseLeaderboard"" id=""baseLeaderboard""></div>
+<div class=""clearfix"" id=""wrapper"">
+<div id=""buckets"">
+<article class=""full loading"">
+<div class=""inner"">
+<h1 class=""headline"">Glasford issues boil order</h1>
+<div class=""article-meta"">
+<div class=""inner"">
+<div class=""article-meta-main"">
+<div class=""article-meta-day"">Wednesday<div>
+<span class=""article-meta-date"">Mar 14, 2012 at 12:01 AM</span>
+<span class=""article-meta-updated"">Mar 14, 2012 at 1:02 PM</span>
+</div>
+</div>
+</div>
+<div class=""article-body"">
+<p class=""article-summary""></p><p>A boil order was issued Tuesday night for the entire village of Glasford.<br/><br/> <br/><br/>	The boil order was issued after a water main break and will remain in effect until further notice, according to a village news release.</p>
+<span class=""byline"">
+</span>
+<p></p><p>A boil order was issued Tuesday night for the entire village of Glasford.<br/>
+<br/>
+	The boil order was issued after a water main break and will remain in effect until further notice, according to a village news release.</p>
+</div>
+</div>
+</div>
+</div><!-- /wrapper -->
+</article></div><!-- /content -->
+<div class=""clearfix"" id=""push-main""></div>
+</div><!-- /wrapper-main -->
+<!--==================================================
+====================END: CONTENT===================-->
+<footer class=""clearfix"" id=""footer-main"">
+<div class=""inner container"">
+<div id=""footer-main-newsletter"">
+<h1 class=""heading"">About Us</h1>
+<span class=""fa-stack fa-2x"">
+<i class=""fa fa-fw fa-stack-2x fa-circle""></i>
+<i class=""fa fa-fw fa-stack-1x fa-inverse fa-envelope""></i>
+</span>
+<h2>Sign up</h2>
+<h3>for daily e-mail</h3>
+<a href=""http://myprofile.pjstar.com/"">
+<button class=""btn btn-default"" type=""button"">
+								Subscribe
+							</button>
+</a>
+</div>
+<div id=""footer-main-info"">
+<div class=""footer-col""><h4>Site Services</h4><ul><li><a href=""http://myprofile.pjstar.com"" target=""_top"">My Profile</a></li><li><a href=""http://mediakit.gatehousemedia.com/Peoria_IL"" target=""_top"">Advertise With Us</a></li><li><a href=""http://www.pjstar.com/pay-your-ad-bill"" target=""_blank"">Pay Your Ad Bill</a></li><li><a href=""http://www.myjournalstar.com/"" target=""_blank"">Customer Service</a></li><li><a href=""http://www.pjstarnie.com/"" target=""_blank"">Newspaper in Education</a></li><li><a href=""http://www.pjstar.com/internships"" target=""_blank"">Internships</a></li><li><a href=""http://www.pjstar.com/contact"" target=""_blank"">Contact Us</a></li></ul></div><div class=""footer-col""><h4>Market Place</h4><ul><li><a href=""http://findnsave.pjstar.com/"" target=""_blank"">Shop</a></li><li><a href=""http://www.pjstar.com/section/cars"" target=""_blank"">Cars</a></li><li><a href=""http://www.pjstar.com/homes"" target=""_blank"">Homes</a></li><li><a href=""http://www.myjournalstar.com/formmail/bargainad.html"" target=""_blank"">Free Classifieds Ad</a></li><li><a href=""http://www.marketplaceadsonline.com/marketplace/ilpeo"" target=""_blank"">Classifieds</a></li></ul></div><div class=""footer-col""><h4>Community Info</h4><ul><li><a href=""http://www.pjstar.com/community-served"" target=""_blank"">Community Served</a></li><li><a href=""http://www.pjstar.com/about"" target=""_blank"">About us</a></li><li><a href=""http://www.pjstar.com/historic-headlines"" target=""_blank"">Historic Headlines</a></li><li><a href=""http://www.pjstar.com/peoria-history"" target=""_blank"">Peoria History</a></li></ul></div><div class=""footer-col""><h4>Forms</h4><ul><li><a href=""http://www.pjstarpeoria.com/online/services/anniversaryform.pdf"" target=""_blank"">Anniversaries</a></li><li><a href=""http://www.pjstarpeoria.com/online/services/birthform.pdf"" target=""_blank"">Births</a></li><li><a href=""http://www.pjstarpeoria.com/online/services/engagementform.pdf"" target=""_blank"">Engagements</a></li><li><a href=""http://www.pjstarpeoria.com/online/services/weddingform.pdf"" target=""_blank"">Weddings</a></li><li><a href=""http://www.pjstarpeoria.com/online/services/100thBirthday.pdf"" target=""_blank"">100th Birthday</a></li><li><a href=""http://www.pjstar.com/jobs"" target=""_blank"">Jobs in Peoria</a></li><li><a href=""http://www.gadzoo.com/pjstar/Pets.aspx"" target=""_blank"">Pets</a></li><li><a href=""http://www.marketplaceadsonline.com/marketplace/ilpeo"" target=""_blank"">Place a Classified Ad</a></li><li><a href=""http://www.pjstar.com/homes"" target=""_blank"">Real Estate</a></li><li><a href=""http://www.marketplaceadsonline.com/marketplace/ilpeo/category/Real%20Estate/Residential%20For%20Rent"" target=""_blank"">Rentals</a></li></ul></div>
+<div id=""footer-main-verticals"">
+<ul class=""list-inline"">
+<script type=""text/javascript"">
+						    	var verticalContent = verticals_data['p'+264+''];
+								for(var key in verticalContent)
+								{
+									if(verticalContent.hasOwnProperty(key))
+									{
+										var vc_title 	= verticalContent[key].title;
+										var vc_url		= verticalContent[key].url;
+										var vc_html		= '<li><a target=""_blank"" href=""'+vc_url+'"">'+vc_title+'</a></li>';
+										var vc_job		= '<li><a target=""_blank"" href=""http://www.pjstar.com/jobs"">Jobs</a></li>';
+										if(vc_title != '' && vc_title != 'NA' && vc_url != '' && vc_url != 'NA')
+										{	
+											if(vc_title == 'Classifieds' || vc_title == 'Cars')
+											{
+												$('#footer-main-verticals ul').append(vc_html);
+											}
+										}
+										if(vc_title == 'Jobs' && vc_url == 'NA')
+										{
+											$('#footer-main-verticals ul').append(vc_job);
+										}
+									}
+								}
+							</script>
+<li><a href=""http://thrivehive.com/"" target=""_blank"">ThriveHive</a></li>
+</ul>
+</div>
+<div id=""footer-main-copyright"">
+<p id=""footer-copyrightInfo"">© Copyright 2006-2017 <a href=""http://www.gatehousemedia.com/about-us/"" target=""_blank"">GateHouse Media, LLC.</a> All rights reserved  •  GateHouse News</p>
+<p>Original content available for non-commercial use under a Creative Commons license, except where noted.
+							<br/>Journal Star  ~ Peoria, IL 61643 ~ <a href=""http://www.gatehousemedia.com/privacy-policy/"" target=""_blank"">Privacy Policy</a> ~ <a href=""http://www.gatehousemedia.com/terms_of_use/"" target=""_blank"">Terms Of Service</a>
+<script>
+								$('#footer-main-copyright p:last-of-type').append('<img id=""footer-main-gh-logo"" src=""http://www.pjstar.com/Global/images/ghlogo_horizontal.png"">');
+							</script>
+</p></div>
+</div><!-- /footer-main-info -->
+</div><!-- /inner++++/apps/pbcs.dll/article?avis=IP&date=20120314&category=NEWS&lopenr=303149831&Ref=AR -->
+</footer><!-- /footer -->
+<nav id=""drawer"" role=""navigation"">
+<a href=""#"" id=""drawer-close"">Close</a>
+<div id=""wrapper-drawer"">
+<ul class=""nav"" data-gh-accordion-loaded=""false"" data-gh-accordion-panel-dom=""#drawer-nav-sections .subnav"" data-gh-accordion-toggle-dom=""#drawer-nav-sections &gt; li &gt; a"" id=""drawer-nav-sections""><li><a href=""http://www.pjstar.com"" target=""_top"">Home</a></li><li><a href=""http://www.pjstar.com/news""><span class=""nav-category"">News</span><span class=""caret""></span></a><ul class=""subnav""><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/news/luciano"" target=""_top"">Phil Luciano</a></li><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/news/police-fire"" target=""_top"">Police/Fire/Courts</a></li><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/news/word-on-the-street"" target=""_top"">Word on the Street</a></li><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/news/nickinthemorning"" target=""_top"">Nick in the AM</a></li><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/news/education"" target=""_top"">Education</a></li><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/news/state-news"" target=""_top"">State News</a></li></ul></li><li><a href=""http://www.pjstar.com/sports""><span class=""nav-category"">Sports</span><span class=""caret""></span></a><ul class=""subnav""><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/preps"" target=""_top"">Preps</a></li><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/sports/columns"" target=""_top"">Columns</a></li><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/rivermen"" target=""_top"">Rivermen</a></li><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/chiefs"" target=""_top"">Peoria Chiefs</a></li><li id=""navLink-TEST-""><a href=""http://www.pjstarforums.com/"" target=""_top"">Sports Forums</a></li><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/bradleyhoops"" target=""_top"">Bradley Hoops</a></li><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/sports/motor-racing-network"" target=""_top"">Auto Racing</a></li></ul></li><li><a href=""http://www.pjstar.com/entertainment""><span class=""nav-category"">Entertainment</span><span class=""caret""></span></a><ul class=""subnav""><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/entertainment/books"" target=""_top"">Books</a></li><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/entertainment/dining-out"" target=""_top"">Dining Out</a></li><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/entertainment/movies"" target=""_top"">Movies</a></li><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/entertainment/tv-guide"" target=""_top"">TV Guide</a></li><li id=""navLink-TEST-""><a href=""http://pjstar.eviesays.com/"" target=""_top"">Calendar</a></li></ul></li><li><a href=""http://www.pjstar.com/lifestyle""><span class=""nav-category"">Lifestyle</span><span class=""caret""></span></a><ul class=""subnav""><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/lifestyle/family"" target=""_top"">Family</a></li><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/lifestyle/food"" target=""_top"">Food</a></li><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/lifestyle/health"" target=""_top"">Health</a></li><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/homes"" target=""_top"">Homes</a></li><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/lifestyle/pets"" target=""_top"">Pets</a></li><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/lifestyle/shareables"" target=""_top"">Shareables</a></li></ul></li><li><a href=""http://www.pjstar.com/opinion""><span class=""nav-category"">Opinion</span><span class=""caret""></span></a><ul class=""subnav""><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/opinion/editorials"" target=""_top"">Our Editorials</a></li><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/opinion/forum"" target=""_top"">Forum Letters</a></li><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/opinion/columns"" target=""_top"">Other Columns</a></li><li id=""navLink-TEST-""><a href=""http://www.pjstar.com/x1650243896/Write-a-letter-to-the-editor"" target=""_top"">Write a letter</a></li></ul></li><li><a href=""http://www.pjstar.com/business-news"" target=""_top"">Business</a></li><li><a href=""http://www.legacy.com/obituaries/pjstar/"" target=""_top"">Obituaries</a></li></ul>
+<ul class=""drawer-nav-secondary nav""><header>More</header><li><a href=""http://www.pjstar.com/photos"" target=""_top"">Photos</a></li><li><a href=""http://www.pjstar.com/videos"" target=""_top"">Videos</a></li><li><a href=""http://blogs.pjstar.com/"" target=""_top"">Blogs</a></li><li><a href=""http://pjstar.eviesays.com/events"" target=""_top"">Calendar</a></li><li><a href=""http://www.legacy.com/celebration/pjstar/"" target=""_top"">Celebrations</a></li><li><a href=""http://games.pjstar.com"" target=""_top"">Games</a></li><li><a href=""http://www.pjstar.com/contests"" target=""_top"">Contests</a></li><li><a href=""http://www.pjstar.com/ara"" target=""_top"">Branded Content</a></li><li><a href=""http://www.pjstar.com/submit"" target=""_top"">Submit Your News</a></li><li><a href=""http://pjstar.clickitrewards.com/"" target=""_top"">Member Rewards</a></li></ul>
+<ul class=""drawer-nav-secondary nav""><header class=""accented"">Subscriber</header><li><a href=""http://myprofile.pjstar.com"" target=""_top"">My Profile</a></li><li><a href=""http://www.myjournalstar.com/"" target=""_blank"">Customer Service</a></li><li><a href=""http://e.pjstar.com/"" target=""_top"">E-Edition</a></li><li><a href=""http://www.pjstar.com/allaccess"" target=""_top"">All Access Signup</a></li><li><a href=""http://www.pjstar.com/subscribenow"" target=""_top"">Subscribe</a></li></ul>
+<ul class=""drawer-nav-secondary nav""><header>Market Place</header><li><a href=""http://mediakit.gatehousemedia.com/Peoria_IL"" target=""_top"">Advertise With Us</a></li><li><a href=""http://www.pjstar.com/pay-your-ad-bill"" target=""_blank"">Pay Your Ad Bill</a></li><li><a href=""http://www.marketplaceadsonline.com/marketplace/ilpeo"" target=""_blank"">Classifieds</a></li><li><a href=""http://www.pjstar.com/section/cars"" target=""_top"">Cars</a></li><li><a href=""http://www.pjstar.com/jobs"" target=""_top"">Jobs</a></li><li><a href=""http://www.pjstar.com/homes"" target=""_blank"">Homes</a></li><li><a href=""http://local.pjstar.com/"" target=""_top"">Local Directory</a></li><li><a href=""http://pjstar.thrivehive.com/"" target=""_blank"">Digital Marketing Services</a></li></ul>
+<footer id=""footer-drawer"">
+<hr/>
+<ul class=""drawer-nav-secondary nav"">
+<li>
+<a href=""mailto:news@pjstar.com"">Feedback</a>
+</li>
+<li>
+<a href=""http://www.gatehousemedia.com/terms_of_use/"">Terms of Use</a>
+</li>
+<li>
+<a href=""http://www.gatehousemedia.com/privacy-policy/"">Privacy Policy</a>
+</li>
+<li>
+<a href=""http://www.gatehousemedia.com/our-markets/"">GateHouse Media Publications</a>
+</li>
+</ul>
+</footer>
+</div>
+<footer id=""footer-drawer"">
+<div class=""visible-xs-block text-center"" data-gh-fetch-html-dom=""#drawer-weather"" data-gh-fetch-html-loaded=""false"" data-gh-fetch-html-url=""http://www.pjstar.com/section/?template=ajaxWeather"" id=""drawer-weather"">
+</div>
+<ul class=""social list-inline"">
+<li>
+<a class=""fa-stack fa-md icon-facebook"" href=""http://www.facebook.com/journalstar"" target=""_blank"" title=""Journal Star Facebook"">
+<i class=""fa fa-fw fa-stack-2x fa-circle""></i>
+<i class=""fa fa-fw fa-stack-1x fa-inverse fa-facebook""></i>
+</a>
+</li>
+<li>
+<a class=""fa-stack fa-md icon-twitter"" href=""http://www.twitter.com/pjstar"" target=""_blank"" title=""Journal Star Twitter"">
+<i class=""fa fa-fw fa-stack-2x fa-circle""></i>
+<i class=""fa fa-fw fa-stack-1x fa-inverse fa-twitter""></i>
+</a>
+</li>
+<li>
+<a class=""fa-stack fa-md icon-instagram"" href=""http://instagram.com/journalstar"" target=""_blank"" title=""Journal Star Instagram"">
+<i class=""fa fa-fw fa-stack-2x fa-circle""></i>
+<i class=""fa fa-fw fa-stack-1x fa-inverse fa-instagram""></i>
+</a>
+</li>
+<li>
+<a class=""fa-stack fa-md icon-rss"" href=""/section/feed"" target=""_blank"" title=""Journal Star RSS Feed"">
+<i class=""fa fa-fw fa-stack-2x fa-circle""></i>
+<i class=""fa fa-fw fa-stack-1x fa-inverse fa-rss""></i>
+</a>
+</li>
+<li>
+<a class=""fa-stack fa-md icon-muted"" href=""http://www.pjstar.com/contact"" title=""Contact Journal Star"">
+<i class=""fa fa-fw fa-stack-2x fa-circle""></i>
+<i class=""fa fa-fw fa-stack-1x fa-inverse fa-envelope""></i>
+</a>
+</li>
+</ul>
+<!-- <span id=""drawer-copyrightInfo"">&copy; 2015 __SITENAME__</span> -->
+</footer>
+</nav>
+<div id=""drawer-fade-screen""></div>
+<div class=""slideUp"" data-gh-object='{""method"":""__gh__webApp.messageCenter.load"",""data"":{""storageKey"":""messageCenter""}}' data-gh-object-loaded=""false"" id=""dialog-message"">
+<header>
+<h3 class=""dialog-title"">SUBSCRIBE TODAY</h3>
+<div class=""dialog-controls"">
+<i class=""fa fa-fw fa-window-minimize"" id=""dialog-minimize""></i>
+<i class=""fa fa-fw fa-lg fa-times"" id=""dialog-close""></i>
+</div>
+</header>
+<div class=""inner"">
+<div class=""dialog-content"">
+<p><span>Choose the plan that’s right for you. Digital access or digital and print delivery.</span></p>
+</div>
+<a class=""btn btn-highlight"" data-gh-tracker-track-event-object='{""category"":""message center pop up"",""action"":""click-action"",""label"":""http://www.pjstar.com/apps/pbcs.dll/article?avis=IP&amp;date=20120314&amp;category=NEWS&amp;lopenr=303149831&amp;Ref=AR""}' href=""http://pjstar.com/subscribenow"">
+            Learn More
+        </a>
+</div>
+</div>
+<script type=""text/javascript"">
+		__gh__coreData.pageData.pageType2 = ""Article"";
+		</script>
+<script src=""//cdn.gatehousemedia.com/gh-sites/global/ads/ads.js""></script>
+<script src=""//cdn.gatehousemedia.com/assets/2.0.21/ext.global.min.js""></script>
+<script src=""//cdn.gatehousemedia.com/assets/2.0.21/int.global.min.js""></script>
+<!--Parse.ly-->
+<div id=""parsely-root"" style=""display: none;"">
+<div data-parsely-site=""pjstar.com"" id=""parsely-cfg""></div>
+</div>
+<script>
+(function(s, p, d) {
+  var h=d.location.protocol, i=p+""-""+s,
+      e=d.getElementById(i), r=d.getElementById(p+""-root""),
+      u=h===""https:""?""d1z2jf7jlzjs58.cloudfront.net""
+      :""static.""+p+"".com"";
+  if (e) return;
+  e = d.createElement(s); e.id = i; e.async = true;
+  e.src = h+""//""+u+""/p.js""; r.appendChild(e);
+})(""script"", ""parsely"", document);
+</script>
+<script src=""//cdn.gatehousemedia.com/assets/2.0.21/article.global.min.js""></script>
+<script>
+__gh__webApp.paywall.pianoVX.meterMainArticle 	= function(articleDOM,articleObject) {
+	loadPianoVX();
+	__gh__webApp.paywall.callExperienceFunction({
+		""callbackObject"": {
+			""callback"": function(){
+				var paywallData = __gh__webApp.paywall.getData(),
+					$article 	= $(articleDOM);
+				//(Piano is looking for a class/id to inject into). Need to make sure this dom only shows up once on the page.
+				if (!paywallData.showPaywall) {	return; }
+				__gh__webApp.articlePage.showLimitedArticle(articleDOM,articleObject);
+			}
+		},
+		""articleObject"": articleObject
+	});
+};
+</script>
+<script>
+		__gh__webApp.init();
+		__gh__webApp.articlePage.init();
+		</script>
+<script async="""" src=""//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js?201604-1""></script>
+<script src=""//cdn.gatehousemedia.com/assets/2.0.21/smartbanner.min.js"" type=""text/javascript""></script>
+<script type=""text/javascript"">$(function(){$.smartbanner()})</script>
+<script type=""text/javascript"">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1044420055';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></div></div></body>
+</html>"
+1,6931,
+2,6926,"<!DOCTYPE html>
+<html lang=""en-US"">
+<head>
+<meta charset=""utf-8""/>
+<meta content=""width=device-width, initial-scale=1.0"" name=""viewport""/>
+<title>WLDS</title>
+<meta content=""Your source for news and information in West Central Illinois. WLDS/WEAI Radio in Jacksonville, Illinois."" name=""description""/>
+<link href=""http://gmpg.org/xfn/11"" rel=""profile""/>
+<link href=""http://wlds.com/xmlrpc.php"" rel=""pingback""/>
+<!--[if lt IE 9]>
+<script src=""http://wlds.com/wp-content/themes/twentytwelve/js/html5.js"" type=""text/javascript""></script>
+<![endif]-->
+<link href=""//s0.wp.com"" rel=""dns-prefetch""/>
+<link href=""//s.w.org"" rel=""dns-prefetch""/>
+<link href=""http://wlds.com/feed/"" rel=""alternate"" title=""WLDS » Feed"" type=""application/rss+xml""/>
+<script type=""text/javascript"">
+			window._wpemojiSettings = {""baseUrl"":""https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/"",""ext"":"".png"",""svgUrl"":""https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/"",""svgExt"":"".svg"",""source"":{""concatemoji"":""http:\/\/wlds.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.1""}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline=""top"",l.font=""600 32px Arial"",a){case""flag"":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case""emoji"":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement(""script"");c.src=a,c.defer=c.type=""text/javascript"",b.getElementsByTagName(""head"")[0].appendChild(c)}var g,h,i,j,k=b.createElement(""canvas""),l=k.getContext&&k.getContext(""2d"");for(j=Array(""flag"",""emoji""),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],""flag""!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener(""DOMContentLoaded"",h,!1),a.addEventListener(""load"",h,!1)):(a.attachEvent(""onload"",h),b.attachEvent(""onreadystatechange"",function(){""complete""===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type=""text/css"">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href=""http://wlds.com/wp-content/plugins/alfie-wp-weather/css/widget.min.css?ver=4.9.1"" id=""alfie-wp-weather-css"" media=""all"" rel=""stylesheet"" type=""text/css""/>
+<link href=""http://wlds.com/wp-content/plugins/responsive-lightbox/assets/swipebox/css/swipebox.min.css?ver=1.7.2"" id=""responsive-lightbox-swipebox-css"" media=""all"" rel=""stylesheet"" type=""text/css""/>
+<link href=""http://wlds.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.73.7"" id=""wp-polls-css"" media=""all"" rel=""stylesheet"" type=""text/css""/>
+<style id=""wp-polls-inline-css"" type=""text/css"">
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 8px;
+	line-height: 10px;
+	height: 10px;
+	background-image: url('http://wlds.com/wp-content/plugins/wp-polls/images/default_gradient/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link href=""http://wlds.com/wp-content/themes/twentytwelve-child/style.css?ver=4.9.1"" id=""twentytwelve-style-css"" media=""all"" rel=""stylesheet"" type=""text/css""/>
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://wlds.com/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link href=""http://wlds.com/wp-content/plugins/jetpack/css/jetpack.css?ver=5.5"" id=""jetpack_css-css"" media=""all"" rel=""stylesheet"" type=""text/css""/>
+<script src=""http://wlds.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"" type=""text/javascript""></script>
+<script src=""http://wlds.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"" type=""text/javascript""></script>
+<script type=""text/javascript"">
+/* <![CDATA[ */
+var alfie = {""path"":""\/wp-content\/plugins""};
+var alfie = {""path"":""\/wp-content\/plugins""};
+/* ]]> */
+</script>
+<script src=""http://wlds.com/wp-content/plugins/alfie-wp-weather/js/alfie.weather.min.js?ver=4.9.1"" type=""text/javascript""></script>
+<script type=""text/javascript"">
+/* <![CDATA[ */
+var alfie = {""path"":""\/wp-content\/plugins""};
+var alfie = {""path"":""\/wp-content\/plugins""};
+/* ]]> */
+</script>
+<script src=""http://wlds.com/wp-content/plugins/alfie-wp-weather/js/alfie-weather.min.js?ver=4.9.1"" type=""text/javascript""></script>
+<script src=""http://wlds.com/wp-content/plugins/responsive-lightbox/assets/swipebox/js/jquery.swipebox.min.js?ver=1.7.2"" type=""text/javascript""></script>
+<script type=""text/javascript"">
+/* <![CDATA[ */
+var rlArgs = {""script"":""swipebox"",""selector"":""lightbox"",""customEvents"":"""",""activeGalleries"":""1"",""animation"":""1"",""hideCloseButtonOnMobile"":""0"",""removeBarsOnMobile"":""0"",""hideBars"":""1"",""hideBarsDelay"":""5000"",""videoMaxWidth"":""1080"",""useSVG"":""1"",""loopAtEnd"":""0"",""woocommerce_gallery"":""0""};
+/* ]]> */
+</script>
+<script src=""http://wlds.com/wp-content/plugins/responsive-lightbox/js/front.js?ver=1.7.2"" type=""text/javascript""></script>
+<script src=""http://wlds.com/wp-content/themes/twentytwelve-child/picturefill.min.js?ver=3.0.2"" type=""text/javascript""></script>
+<link href=""http://wlds.com/wp-json/"" rel=""https://api.w.org/""/>
+<link href=""http://wlds.com/xmlrpc.php?rsd"" rel=""EditURI"" title=""RSD"" type=""application/rsd+xml""/>
+<link href=""http://wlds.com/wp-includes/wlwmanifest.xml"" rel=""wlwmanifest"" type=""application/wlwmanifest+xml""/>
+<meta content=""WordPress 4.9.1"" name=""generator""/>
+<link href=""http://wlds.com/"" rel=""canonical""/>
+<link href=""http://wlds.com/"" rel=""shortlink""/>
+<link href=""http://wlds.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwlds.com%2F"" rel=""alternate"" type=""application/json+oembed""/>
+<link href=""http://wlds.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwlds.com%2F&amp;format=xml"" rel=""alternate"" type=""text/xml+oembed""/>
+<style type=""text/css"">img#wpstats{display:none}</style>
+<!-- Jetpack Open Graph Tags -->
+<meta content=""website"" property=""og:type""/>
+<meta content=""WLDS"" property=""og:title""/>
+<meta content=""http://wlds.com/"" property=""og:url""/>
+<meta content=""WLDS"" property=""og:site_name""/>
+<meta content=""https://s0.wp.com/i/blank.jpg"" property=""og:image""/>
+<meta content=""en_US"" property=""og:locale""/>
+<meta content=""@wldsnews"" name=""twitter:site""/>
+<meta content=""Home"" name=""twitter:text:title""/>
+<meta content=""summary"" name=""twitter:card""/>
+<meta content=""Visit the post for more."" name=""twitter:description""/>
+<!-- BEGIN GADWP v5.1.2.3 Universal Analytics - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-42207500-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END GADWP Universal Analytics -->
+</head>
+<body class=""home page-template page-template-front-page page-template-front-page-php page page-id-2 page-parent"">
+<header class=""site-header"" id=""masthead"" role=""banner"">
+<picture>
+<!--[if IE 9]><video style=""display: none;""><![endif]-->
+<source media=""(min-width: 600px)"" srcset=""http://wlds.com/img/header/home.jpg"">
+<!--[if IE 9]></video><![endif]-->
+<img alt="""" srcset=""http://wlds.com/img/header/home-small.jpg""/>
+</source></picture>
+<nav class=""main-navigation group"" id=""site-navigation"" role=""navigation"">
+<h3 class=""menu-toggle"">Menu</h3>
+<a class=""assistive-text"" href=""#content"" title=""Skip to content"">Skip to content</a>
+<div class=""menu-main-menu-container""><ul class=""nav-menu"" id=""menu-main-menu""><li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-48"" id=""menu-item-48""><a href=""http://wlds.com/"">Home</a></li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-42"" id=""menu-item-42""><a href=""http://wlds.com/news/"">News</a>
+<ul class=""sub-menu"">
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-48977"" id=""menu-item-48977""><a href=""http://wlds.com/weather/"">Weather Statistics</a></li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-45"" id=""menu-item-45""><a href=""http://wlds.com/news/"">Local News</a></li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-44"" id=""menu-item-44""><a href=""http://wlds.com/obituaries/"">Obituaries</a></li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-948"" id=""menu-item-948""><a href=""http://wlds.com/whats-on-your-mind/"">What’s On Your Mind?</a></li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-48041"" id=""menu-item-48041""><a href=""http://wlds.com/streaming/"">Streaming</a></li>
+</ul>
+</li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-38"" id=""menu-item-38""><a href=""http://wlds.com/farm/"">Farm</a>
+<ul class=""sub-menu"">
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-47"" id=""menu-item-47""><a href=""http://wlds.com/farm/"">News</a></li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-41"" id=""menu-item-41""><a href=""http://wlds.com/farm/national/"">National News</a></li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-40"" id=""menu-item-40""><a href=""http://wlds.com/farm/market/"">Market</a></li>
+</ul>
+</li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-35"" id=""menu-item-35""><a href=""http://wlds.com/sports/"">Sports</a>
+<ul class=""sub-menu"">
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-46"" id=""menu-item-46""><a href=""http://wlds.com/sports/"">Local Sports</a></li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-36"" id=""menu-item-36""><a href=""http://wlds.com/sports/schedule/"">Schedule</a></li>
+</ul>
+</li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9111"" id=""menu-item-9111""><a href=""http://wlds.com/food/"">Food</a>
+<ul class=""sub-menu"">
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-9112"" id=""menu-item-9112""><a href=""http://wlds.com/food/"">Cooking with Mary</a></li>
+</ul>
+</li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-5844"" id=""menu-item-5844""><a href=""http://wlds.com/events/"">Events</a></li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-47265"" id=""menu-item-47265""><a href=""http://wlds.com/home/wlds-program-schedule/"">NEW WLDS Schedule</a></li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-49194"" id=""menu-item-49194""><a href=""http://wlds.com/?page_id=216"">Cancellations</a></li>
+</ul></div> </nav><!-- #site-navigation -->
+</header><!-- #masthead -->
+<div class=""hfeed site"" id=""page"">
+<div class=""wrapper"" id=""main"">
+<div class=""bannerad"">
+<a href=""http://jacksonvillesavings.com""> <picture>
+<!--[if IE 9]><video style=""display: none;""><![endif]-->
+<source media=""(min-width: 600px)"" srcset=""http://wlds.com/wp-content/uploads/2013/07/WLDS-ShowerSpace-JSB.jpg"">
+<!--[if IE 9]></video><![endif]-->
+<img alt="""" srcset=""http://wlds.com/wp-content/uploads/2013/07/WLDS-ShowerSpace-JSB-Mobile.jpg""/>
+</source></picture>
+</a> </div>
+<div class=""sidebar-top"">
+<div class=""streaming-link"">
+<a href=""http://wlds.com/streaming/""><img src=""http://wlds.com/wp-content/uploads/2013/07/ListenLive-4.jpg""/></a>
+</div>
+<div class=""sidebarad"">
+<a href=""http://https://www.passavanthospital.com/services/orthopedic-services""> <img src=""http://wlds.com/wp-content/uploads/2013/07/MHS4328-PAH_Ortho_BikeGoesLeft_275x275_FINAL.jpg""/>
+</a> </div>
+</div>
+<div class=""site-content"" id=""primary"">
+<div class=""wldshome"" id=""content"" role=""main"">
+<div class=""storyblock"">
+<h2><a href=""http://wlds.com/news/manchester-man-hospitalized-after-single-vehicle-crash/"">Manchester man hospitalized after single-vehicle crash</a></h2>
+<p class=""details"">By Blake Schnitker on December 6 at 12:35pm</p>
+<div class=""featuredphoto"">
+<img alt="""" class=""attachment-thumbnail size-thumbnail wp-post-image"" height=""60"" sizes=""(max-width: 150px) 100vw, 150px"" src=""http://wlds.com/wp-content/uploads/2017/08/ListenLive-WLDS-150x60.jpg"" srcset=""http://wlds.com/wp-content/uploads/2017/08/ListenLive-WLDS-150x60.jpg 150w, http://wlds.com/wp-content/uploads/2017/08/ListenLive-WLDS-300x120.jpg 300w, http://wlds.com/wp-content/uploads/2017/08/ListenLive-WLDS-768x307.jpg 768w, http://wlds.com/wp-content/uploads/2017/08/ListenLive-WLDS-400x160.jpg 400w, http://wlds.com/wp-content/uploads/2017/08/ListenLive-WLDS.jpg 825w"" width=""150""/> </div>
+<p>One person was hospitalized in a single vehicle crash outside of Winchester last night. According to reports from Illinois State Police District 20, 26-year old Tanner Steckel, of Manchester, was <a class=""moretag"" href=""http://wlds.com/news/manchester-man-hospitalized-after-single-vehicle-crash/"">Read More</a></p>
+</div>
+<div class=""storyblock"">
+<h2><a href=""http://wlds.com/news/jacksonville-man-indicted-by-federal-grand-jury-for-alleged-preparation-of-false-federal-tax-returns/"">Jacksonville man indicted by federal grand jury for alleged preparation of false federal tax returns</a></h2>
+<p class=""details"">By Blake Schnitker on December 6 at 6:55am</p>
+<p>According to a press release from the U.S. Department of Justice, a grand jury yesterday indicted a Jacksonville man for allegedly aiding and assisting in the preparation of false tax <a class=""moretag"" href=""http://wlds.com/news/jacksonville-man-indicted-by-federal-grand-jury-for-alleged-preparation-of-false-federal-tax-returns/"">Read More</a></p>
+</div>
+<div class=""storyblock"">
+<h2><a href=""http://wlds.com/news/pair-of-suspects-in-heroin-bust-make-initial-court-appearances/"">Pair of suspects in heroin bust make initial court appearances</a></h2>
+<p class=""details"">By Blake Schnitker on December 6 at 5:44am</p>
+<div class=""featuredphoto"">
+<img alt="""" class=""attachment-thumbnail size-thumbnail wp-post-image"" height=""107"" sizes=""(max-width: 150px) 100vw, 150px"" src=""http://wlds.com/wp-content/uploads/2013/10/courthouse-150x107.jpg"" srcset=""http://wlds.com/wp-content/uploads/2013/10/courthouse-150x107.jpg 150w, http://wlds.com/wp-content/uploads/2013/10/courthouse-300x214.jpg 300w, http://wlds.com/wp-content/uploads/2013/10/courthouse.jpg 400w"" width=""150""/> </div>
+<p>Two of the four individuals arrested last month following a heroin bust in Jacksonville made their first appearances in court yesterday. Thirty-three year old Sammy Bunch, who, at the time <a class=""moretag"" href=""http://wlds.com/news/pair-of-suspects-in-heroin-bust-make-initial-court-appearances/"">Read More</a></p>
+</div>
+<div class=""storyblock"">
+<h2><a href=""http://wlds.com/news/senator-sam-mccann-will-not-seek-reelection-in-2018-general-primary/"">Senator Sam McCann will not seek reelection in 2018 general primary</a></h2>
+<p class=""details"">By Blake Schnitker on December 5 at 6:17am</p>
+<div class=""featuredphoto"">
+<img alt="""" class=""attachment-thumbnail size-thumbnail wp-post-image"" height=""154"" sizes=""(max-width: 150px) 100vw, 150px"" src=""http://wlds.com/wp-content/uploads/2013/10/pic-McCann-150x154.jpg"" srcset=""http://wlds.com/wp-content/uploads/2013/10/pic-McCann-150x154.jpg 150w, http://wlds.com/wp-content/uploads/2013/10/pic-McCann.jpg 169w"" width=""150""/> </div>
+<p>Now that filing period for the 2018 general primaries is over, there’s one familiar name that will not appear on the ballot come March. Senator Sam McCann, of Plainview, announced <a class=""moretag"" href=""http://wlds.com/news/senator-sam-mccann-will-not-seek-reelection-in-2018-general-primary/"">Read More</a></p>
+</div>
+<div class=""storyblock"">
+<h2><a href=""http://wlds.com/news/lt-chris-johnson-talks-about-his-campaign-for-morgan-county-sheriff/"">Lt. Chris Johnson talks about his campaign for Morgan County Sheriff</a></h2>
+<p class=""details"">By Blake Schnitker on December 4 at 12:45pm</p>
+<div class=""featuredphoto"">
+<img alt="""" class=""attachment-thumbnail size-thumbnail wp-post-image"" height=""250"" sizes=""(max-width: 141px) 100vw, 141px"" src=""http://wlds.com/wp-content/uploads/2017/06/cj-141x250.png"" srcset=""http://wlds.com/wp-content/uploads/2017/06/cj-141x250.png 141w, http://wlds.com/wp-content/uploads/2017/06/cj-169x300.png 169w, http://wlds.com/wp-content/uploads/2017/06/cj-225x400.png 225w, http://wlds.com/wp-content/uploads/2017/06/cj.png 360w"" width=""141""/> </div>
+<p>Last week, we previewed one of the two candidates running for Morgan County Sheriff, and now it’s time for part two of those previews. Morgan County Chief Deputy Mike Carmody, <a class=""moretag"" href=""http://wlds.com/news/lt-chris-johnson-talks-about-his-campaign-for-morgan-county-sheriff/"">Read More</a></p>
+</div>
+<div class=""morenews"">
+<p><a href=""/news"">More Local News →</a></p>
+</div>
+<div class=""pagecontent group"">
+</div>
+</div><!-- #content -->
+</div><!-- #primary -->
+<div class=""widget-area"" id=""secondary"" role=""complementary"">
+<aside class=""widget widget_media_image"" id=""media_image-2""><a href=""http://wlds.com/home/wlds-program-schedule/""><img alt="""" class=""image wp-image-47262 attachment-full size-full"" height=""116"" sizes=""(max-width: 400px) 100vw, 400px"" src=""http://wlds.com/wp-content/uploads/2017/07/WLDS-ScheduleButton.jpg"" srcset=""http://wlds.com/wp-content/uploads/2017/07/WLDS-ScheduleButton.jpg 400w, http://wlds.com/wp-content/uploads/2017/07/WLDS-ScheduleButton-150x44.jpg 150w, http://wlds.com/wp-content/uploads/2017/07/WLDS-ScheduleButton-300x87.jpg 300w"" style=""max-width: 100%; height: auto;"" width=""400""/></a></aside><aside class=""widget alfie_wp_weather"" id=""alfie-wp-weather-2""><div class=""widget-container alfie-container"" id=""woeid-2428346""> <script id=""widget-template"" type=""alfie/appcuarium"">
+        <div class=""alfie-wp-weather-object {{daynight}}"">
+            <div class=""weather-main-info"">
+                <div class=""alfie-wp-weather-item alfie-city"">{{city}}</div>
+                                    <div class=""alfie-wp-weather-item alfie-country"">{{country}}</div>
+                                <div class=""alfie-wp-weather-item alfie-temperature""><span>{{currentTemp}}</span>&deg;</div>
+                                    <div class=""alfie-wp-weather-item alfie-description"">{{condition}}</div>
+                                            <div class=""alfie-wp-weather-item alfie-range"">High:&nbsp;{{high}}&deg;&nbsp;Low:&nbsp;{{low}}&deg;</div>
+                                            <div class=""alfie-wp-weather-item alfie-wind"">Wind:&nbsp;{{wind_direction}}
+                        {{wind}} {{speed_unit}}
+                    </div>
+                                            <div class=""alfie-wp-weather-item alfie-humidity"">Humidity:&nbsp;{{humidity}}&#37;</div>
+                                            <div class=""alfie-wp-weather-item alfie-visibility"">Visibility:&nbsp;{{visibility}}</div>
+                                            <div class=""alfie-wp-weather-item alfie-sunrise"">Sunrise:&nbsp;{{sunrise}}</div>
+                                            <div class=""alfie-wp-weather-item alfie-sunset"">Sunset:&nbsp;{{sunset}}</div>
+                            </div>
+                            <div class=""alfie-wp-weather-forecast"">
+                    <div class=""alfie-wp-weather-forecast-item"">
+                        <div class=""alfie-wp-weather-forecast-day"">{{day_one}}</div>
+                                                    <img src=""http://l.yimg.com/a/i/us/nws/weather/gr/{{forecast_one_code}}s.png""/>
+                                                <div class=""alfie-wp-weather-forecast-highlow"">High                            :&nbsp;<span>{{forecast_one_high}}&deg;</span></div>
+                        <div class=""alfie-wp-weather-forecast-highlow"">Low:&nbsp;{{forecast_one_low}}&deg;</div>
+                    </div>
+
+                    <div class=""alfie-wp-weather-forecast-item"">
+                        <div class=""alfie-wp-weather-forecast-day"">{{day_two}}</div>
+                                                    <img src=""http://l.yimg.com/a/i/us/nws/weather/gr/{{forecast_two_code}}s.png""/>
+                                                <div class=""alfie-wp-weather-forecast-highlow"">High                            :&nbsp;<span>{{forecast_two_high}}&deg;</span></div>
+                        <div class=""alfie-wp-weather-forecast-highlow"">Low:&nbsp;{{forecast_two_low}}&deg;</div>
+                    </div>
+                </div>
+                            </div>
+                    <img class=""condition-main-image"" src=""{{image_bg}}{{daynight}}.png"" />
+            </script>
+<script>
+        (function ( $, window, document, undefined ) {
+            $( function () {
+
+                var $me = $( '#woeid-2428346' ),
+                    $body = $( 'body' ),
+                    auto_location = '0',
+                    params = {
+                        woeid: 2428346,
+                        unit: 'f',
+                        image: 1,
+                        country: 1,
+                        highlow: 1,
+                        wind: 1,
+                        humidity: 1,
+                        visibility: 1,
+                        sunrise: 1,
+                        sunset: 1,
+                        forecast: 1,
+                        forecast_image: 1,
+                        locale: 'en_US',
+                        timestamp: '1512593092',
+                        auto_location: parseInt( auto_location ),
+                        client_ip: '144.121.82.194'
+                    };
+
+                $me.alfie( {
+                    action: {
+                        get_weather: {
+                            params: params
+                        }
+                    },
+                    onComplete: function ( response ) {
+                        $me.html( response );
+                    }
+                } );
+            } );
+        })( jQuery, window, document );
+    </script>
+</div></aside><aside class=""widget widget_execphp"" id=""execphp-3""> <div class=""execphpwidget""><div class=""whatsonyourmind"">
+<div class=""woymheader"">
+<img src=""http://wlds.com/img/whatsonyourmind.png""/>
+</div>
+<h4 class=""guest"">WOYM 11/10 on Jax Symphony Orchestra’s 2nd concert of 2017</h4><h4 class=""guest"">WOYM 11/13 on Utility Scams w/ Ameren Illinois’ Carl Fisher</h4><h4 class=""guest"">WOYM 11/15 on Social Security with Jack Myer</h4><p class=""archivelink""><a href=""/whats-on-your-mind"">Archive</a></p>
+</div></div>
+</aside><aside class=""widget widget_search"" id=""search-3""><h3 class=""widget-title"">Search WLDS</h3><form action=""http://wlds.com/"" class=""searchform"" id=""searchform"" method=""get"" role=""search"">
+<div>
+<label class=""screen-reader-text"" for=""s"">Search for:</label>
+<input id=""s"" name=""s"" type=""text"" value=""""/>
+<input id=""searchsubmit"" type=""submit"" value=""Search""/>
+</div>
+</form></aside><aside class=""widget widget_polls-widget"" id=""polls-widget-3""><h3 class=""widget-title"">Polls</h3><div class=""wp-polls"" id=""polls-122"">
+<form action=""/index.php"" class=""wp-polls-form"" id=""polls_form_122"" method=""post"">
+<p style=""display: none;""><input id=""poll_122_nonce"" name=""wp-polls-nonce"" type=""hidden"" value=""5aeb66e630""/></p>
+<p style=""display: none;""><input name=""poll_id"" type=""hidden"" value=""122""/></p>
+<p><strong>Of the three autumn/winter holidays, which is your favorite?</strong></p><div class=""wp-polls-ans"" id=""polls-122-ans""><ul class=""wp-polls-ul"">
+<li><input id=""poll-answer-411"" name=""poll_122"" type=""radio"" value=""411""/> <label for=""poll-answer-411"">Halloween</label></li>
+<li><input id=""poll-answer-412"" name=""poll_122"" type=""radio"" value=""412""/> <label for=""poll-answer-412"">Thanksgiving</label></li>
+<li><input id=""poll-answer-413"" name=""poll_122"" type=""radio"" value=""413""/> <label for=""poll-answer-413"">Chistmas/Hanakkuh</label></li>
+<li><input id=""poll-answer-414"" name=""poll_122"" type=""radio"" value=""414""/> <label for=""poll-answer-414"">None of the above</label></li>
+</ul><p style=""text-align: center;""><input class=""Buttons"" name=""vote"" onclick=""poll_vote(122);"" type=""button"" value=""   Vote   ""/></p><p style=""text-align: center;""><a href=""#ViewPollResults"" onclick=""poll_result(122); return false;"" title=""View Results Of This Poll"">View Results</a></p></div>
+</form>
+</div>
+<div class=""wp-polls-loading"" id=""polls-122-loading""><img alt=""Loading ..."" class=""wp-polls-image"" height=""16"" src=""http://wlds.com/wp-content/plugins/wp-polls/images/loading.gif"" title=""Loading ..."" width=""16""/> Loading ...</div>
+<ul><li><a href=""http://wlds.com/pollsarchive"">Polls Archive</a></li></ul></aside> </div><!-- #secondary -->
+<div class=""adsense"">
+<script async="""" src=""//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js""></script>
+<!-- Footer -->
+<ins class=""adsbygoogle"" data-ad-client=""ca-pub-8230238476650106"" data-ad-slot=""5035143277"" style=""display:inline-block;width:728px;height:90px""></ins>
+<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+</div>
+</div><!-- #main .wrapper -->
+<footer class=""clear"" id=""colophon"" role=""contentinfo"">
+<ul class=""social group"">
+<li><a href=""https://www.facebook.com/WLDSWEAINews""><img class=""facebook"" src=""http://wlds.com/wp-content/uploads/2013/09/facebook.png""/></a></li>
+<li><a href=""https://twitter.com/wldsnews""><img class=""twitter"" src=""http://wlds.com/wp-content/uploads/2013/09/twitter.png""/></a></li>
+</ul>
+<ul class=""footer-links group"">
+<li><a href=""/eeoe"">EEOE Statement</a></li>
+<li><a href=""/employment"">Employment</a></li>
+<li><a href=""/contact-us"">Contact WLDS</a></li>
+</ul>
+</footer><!-- #colophon -->
+</div><!-- #page -->
+<script src=""https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201749"" type=""text/javascript""></script>
+<script type=""text/javascript"">
+/* <![CDATA[ */
+var pollsL10n = {""ajax_url"":""http:\/\/wlds.com\/wp-admin\/admin-ajax.php"",""text_wait"":""Your last request is still being processed. Please wait a while ..."",""text_valid"":""Please choose a valid poll answer."",""text_multiple"":""Maximum number of choices allowed: "",""show_loading"":""1"",""show_fading"":""1""};
+/* ]]> */
+</script>
+<script src=""http://wlds.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.73.7"" type=""text/javascript""></script>
+<script src=""http://wlds.com/wp-content/themes/twentytwelve/js/navigation.js?ver=1.0"" type=""text/javascript""></script>
+<script src=""http://wlds.com/wp-includes/js/wp-embed.min.js?ver=4.9.1"" type=""text/javascript""></script>
+<script async="""" defer="""" src=""https://stats.wp.com/e-201749.js"" type=""text/javascript""></script>
+<script type=""text/javascript"">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.5',blog:'55613241',post:'2',tz:'-6',srv:'wlds.com'} ]);
+	_stq.push([ 'clickTrackerInit', '55613241', '2' ]);
+</script>
+<link href=""/wp-content/themes/twentytwelve-child/audio.css"" rel=""stylesheet"" type=""text/css""/>
+</body>
+</html>
+<!-- Dynamic page generated in 1.070 seconds. -->
+"

@@ -1,0 +1,892 @@
+,index,HTML
+0,7051,"<!DOCTYPE html>
+<html lang=""en-US"" prefix=""og: http://ogp.me/ns#"">
+<head>
+<meta charset=""utf-8""/>
+<title>The Baker County Press | Baker County's Circulation Leader</title>
+<link href=""https://gmpg.org/xfn/11"" rel=""profile""/>
+<link href=""https://bakercountypress.com/wp-content/themes/sahifa/style.css"" media=""all"" rel=""stylesheet"" type=""text/css""/>
+<link href=""https://bakercountypress.com/xmlrpc.php"" rel=""pingback""/>
+<link href=""https://fonts.googleapis.com/css?family=Droid+Sans:regular,bold"" rel=""stylesheet"" type=""text/css""/>
+<!--[if lt IE 9]>
+<script src=""https://bakercountypress.com/wp-content/themes/sahifa/js/html5.js""></script>
+<script src=""https://bakercountypress.com/wp-content/themes/sahifa/js/selectivizr-min.js""></script>
+<![endif]-->
+<!--[if IE 9]>
+<link rel=""stylesheet"" type=""text/css"" media=""all"" href=""https://bakercountypress.com/wp-content/themes/sahifa/css/ie9.css"" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel=""stylesheet"" type=""text/css"" media=""all"" href=""https://bakercountypress.com/wp-content/themes/sahifa/css/ie8.css"" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel=""stylesheet"" type=""text/css"" media=""all"" href=""https://bakercountypress.com/wp-content/themes/sahifa/css/ie7.css"" />
+<![endif]-->
+<script type=""text/javascript"">
+	/* <![CDATA[ */
+	var tievar = {'go_to' : 'Go to...'};
+	var tie = {""ajaxurl"":""https://bakercountypress.com/wp-admin/admin-ajax.php"" , ""your_rating"":""Your Rating:""};
+	/* ]]> */
+</script>
+<link href=""//s.w.org"" rel=""dns-prefetch""/>
+<link href=""https://bakercountypress.com/feed/"" rel=""alternate"" title=""The Baker County Press » Feed"" type=""application/rss+xml""/>
+<link href=""https://bakercountypress.com/comments/feed/"" rel=""alternate"" title=""The Baker County Press » Comments Feed"" type=""application/rss+xml""/>
+<link href=""https://bakercountypress.com/calendar/?ical=1"" rel=""alternate"" title=""The Baker County Press » iCal Feed"" type=""text/calendar""/>
+<!-- This site uses the Google Analytics by MonsterInsights plugin v6.2.6 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script data-cfasync=""false"" type=""text/javascript"">
+		var disableStr = 'ga-disable-UA-190224-4';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-190224-4', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview');
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type=""text/javascript"">
+			window._wpemojiSettings = {""baseUrl"":""https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/"",""ext"":"".png"",""svgUrl"":""https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/"",""svgExt"":"".svg"",""source"":{""concatemoji"":""https:\/\/bakercountypress.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.1""}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline=""top"",l.font=""600 32px Arial"",a){case""flag"":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case""emoji"":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement(""script"");c.src=a,c.defer=c.type=""text/javascript"",b.getElementsByTagName(""head"")[0].appendChild(c)}var g,h,i,j,k=b.createElement(""canvas""),l=k.getContext&&k.getContext(""2d"");for(j=Array(""flag"",""emoji""),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],""flag""!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener(""DOMContentLoaded"",h,!1),a.addEventListener(""load"",h,!1)):(a.attachEvent(""onload"",h),b.attachEvent(""onreadystatechange"",function(){""complete""===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type=""text/css"">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href=""https://bakercountypress.com/wp-content/plugins/show-ip-address/css/style-show-ip-address.css?ver=all"" id=""custom-style-css"" media=""all"" rel=""stylesheet"" type=""text/css""/>
+<link href=""//bakercountypress.com/wp-content/plugins/wp-filebase/wp-filebase.css?t=1489885787&amp;ver=3.4.4"" id=""wpfb-css"" media=""all"" rel=""stylesheet"" type=""text/css""/>
+<link href=""https://bakercountypress.com/wp-content/plugins/youtube-channel-slider/css/style.css?ver=4.9.1"" id=""video-lightbox-css"" media=""all"" rel=""stylesheet"" type=""text/css""/>
+<link href=""https://bakercountypress.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.73.8"" id=""wp-polls-css"" media=""all"" rel=""stylesheet"" type=""text/css""/>
+<style id=""wp-polls-inline-css"" type=""text/css"">
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 9px;
+	line-height: 11px;
+	height: 11px;
+	background-image: url('https://bakercountypress.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link href=""https://bakercountypress.com/wp-content/plugins/youtube-channel/assets/lib/magnific-popup/magnific-popup.min.css?ver=3.0.11.3"" id=""magnific-popup-au-css"" media=""all"" rel=""stylesheet"" type=""text/css""/>
+<link href=""https://bakercountypress.com/wp-content/plugins/youtube-channel/assets/css/youtube-channel.css?ver=3.0.11.3"" id=""youtube-channel-css"" media=""all"" rel=""stylesheet"" type=""text/css""/>
+<link href=""https://bakercountypress.com/wp-content/plugins/s2member/s2member-o.php?ws_plugin__s2member_css=1&amp;qcABC=1&amp;ver=170722-170722-4020932188"" id=""ws-plugin--s2member-css"" media=""all"" rel=""stylesheet"" type=""text/css""/>
+<link href=""https://bakercountypress.com/wp-content/plugins/wpmu_dev_maps_plugin/css/google_maps_user.css?ver=4.9.1"" id=""agm_google_maps_user_style-css"" media=""all"" rel=""stylesheet"" type=""text/css""/>
+<script type=""text/javascript"">if (typeof(_agmMaps) == ""undefined"") _agmMaps = [];</script><script type=""text/javascript"">if (typeof(_agmWmi) == ""undefined"") _agmWmi={
+				""add_marker"": 0,
+				""shortcode_only"": 0,
+				""auto_center"": 0,
+				""marker_label"": ""This is you"",
+				""icon"": """"
+			};</script><script type=""text/javascript"">var _agm = {""ajax_url"":""https:\/\/bakercountypress.com\/wp-admin\/admin-ajax.php"",""root_url"":""https:\/\/bakercountypress.com\/wp-content\/plugins\/wpmu_dev_maps_plugin"",""is_multisite"":0,""libraries"":[""panoramio""]};</script> <script>
+      if (document.location.protocol != ""https:"") {
+          document.location = document.URL.replace(/^http:/i, ""https:"");
+      }
+      </script>
+<script src=""https://bakercountypress.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"" type=""text/javascript""></script>
+<script src=""https://bakercountypress.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"" type=""text/javascript""></script>
+<script src=""https://bakercountypress.com/wp-content/plugins/menubar/templates/Superfish/superfish.js?ver=4.9.1"" type=""text/javascript""></script>
+<script src=""https://bakercountypress.com/wp-content/plugins/wp-cart-for-digital-products/lib/jquery.external.lib.js?ver=4.9.1"" type=""text/javascript""></script>
+<script src=""https://bakercountypress.com/wp-content/plugins/wp-cart-for-digital-products/lib/jquery.lightbox-0.5.pack.js?ver=4.9.1"" type=""text/javascript""></script>
+<script src=""https://bakercountypress.com/wp-content/plugins/youtube-channel-slider/js/jquery.prettyPhoto.js?ver=3.1.4"" type=""text/javascript""></script>
+<script src=""https://bakercountypress.com/wp-content/plugins/youtube-channel-slider/js/video-lightbox.js?ver=3.1.4"" type=""text/javascript""></script>
+<script type=""text/javascript"">
+/* <![CDATA[ */
+var monsterinsights_frontend = {""js_events_tracking"":""true"",""is_debug_mode"":""false"",""download_extensions"":""doc,exe,js,pdf,ppt,tgz,zip,xls"",""inbound_paths"":"""",""home_url"":""https:\/\/bakercountypress.com"",""track_download_as"":""event"",""internal_label"":""int"",""hash_tracking"":""false""};
+/* ]]> */
+</script>
+<script src=""https://bakercountypress.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=6.2.6"" type=""text/javascript""></script>
+<script src=""https://bakercountypress.com/wp-includes/js/swfobject.js?ver=2.2-20120417"" type=""text/javascript""></script>
+<script type=""text/javascript"">
+/* <![CDATA[ */
+var samAjax = {""ajaxurl"":""https:\/\/bakercountypress.com\/wp-content\/plugins\/simple-ads-manager\/sam-ajax.php"",""loadurl"":""https:\/\/bakercountypress.com\/wp-content\/plugins\/simple-ads-manager\/sam-ajax-loader.php"",""load"":""1"",""mailer"":""1"",""clauses"":""YTo0OntzOjI6IldDIjtzOjE3ODoiKElGKHNhLmFkX3VzZXJzID0gMCwgVFJVRSwgKHNhLmFkX3VzZXJzX3VucmVnID0gMSkpKSBBTkQgKChzYS52aWV3X3R5cGUgPSAxKSBPUiAoc2Eudmlld190eXBlID0gMCBBTkQgKHNhLnZpZXdfcGFnZXMrMCAmIDEpKSkgQU5EIChzYS5hZF9jYXRzID0gMCkgIEFORCAoc2EuYWRfYXV0aG9ycyA9IDApICAgICAgICI7czozOiJXQ1QiO3M6MzYyOiIgQU5EIElGKHNhLmFkX3NjaGVkdWxlLCBDVVJEQVRFKCkgQkVUV0VFTiBzYS5hZF9zdGFydF9kYXRlIEFORCBzYS5hZF9lbmRfZGF0ZSwgVFJVRSkgQU5EIElGKHNhLmxpbWl0X2hpdHMsIHNhLmhpdHNfbGltaXQgPiAoU0VMRUNUIElGTlVMTChDT1VOVCgqKSwgMCkgRlJPTSB3cF9zYW1fc3RhdHMgc3MgV0hFUkUgc3MuaWQgPSBzYS5pZCBBTkQgc3MuZXZlbnRfdHlwZSA9IDApLCBUUlVFKSBBTkQgSUYoc2EubGltaXRfY2xpY2tzLCBzYS5jbGlja3NfbGltaXQgPiAoU0VMRUNUIElGTlVMTChDT1VOVCgqKSwgMCkgRlJPTSB3cF9zYW1fc3RhdHMgc3MgV0hFUkUgc3MuaWQgPSBzYS5pZCBBTkQgc3MuZXZlbnRfdHlwZSA9IDEpLCBUUlVFKSI7czozOiJXQ1ciO3M6ODA6IiBBTkQgSUYoc2EuYWRfd2VpZ2h0ID4gMCwgKHNhLmFkX3dlaWdodF9oaXRzKjEwLyhzYS5hZF93ZWlnaHQqMTAwMCkpIDwgMSwgRkFMU0UpIjtzOjQ6IldDMlciO3M6MjI6IkFORCAoc2EuYWRfd2VpZ2h0ID4gMCkiO30="",""doStats"":""1"",""container"":""sam-container"",""place"":""sam-place"",""ad"":""sam-ad""};
+/* ]]> */
+</script>
+<script src=""https://bakercountypress.com/wp-content/plugins/simple-ads-manager/js/sam-layout.min.js?ver=2.9.8.124"" type=""text/javascript""></script>
+<script src=""https://bakercountypress.com/wp-content/themes/sahifa/js/tie-scripts.js?ver=4.9.1"" type=""text/javascript""></script>
+<script src=""https://bakercountypress.com/wp-content/plugins/wpmu_dev_maps_plugin/js/google_maps_loader.js?ver=4.9.1"" type=""text/javascript""></script>
+<script type=""text/javascript"">
+/* <![CDATA[ */
+var l10nStrings = {""close"":""Close"",""get_directions"":""Get Directions"",""geocoding_error"":""There was an error geocoding your location. Check the address and try again"",""missing_waypoint"":""Please, enter values for both point A and point B"",""directions"":""Directions"",""posts"":""Posts"",""showAll"":""Show All"",""hide"":""Hide"",""oops_no_directions"":""Oops, we couldn't calculate the directions""};
+/* ]]> */
+</script>
+<script src=""https://bakercountypress.com/wp-content/plugins/wpmu_dev_maps_plugin/js/google_maps_user.js?ver=4.9.1"" type=""text/javascript""></script>
+<script src=""https://bakercountypress.com/wp-content/plugins/wpmu_dev_maps_plugin/js/center_map-user.js?ver=4.9.1"" type=""text/javascript""></script>
+<script src=""https://bakercountypress.com/wp-content/plugins/wpmu_dev_maps_plugin/js/where_am_i-user.js?ver=4.9.1"" type=""text/javascript""></script>
+<link href=""https://bakercountypress.com/wp-json/"" rel=""https://api.w.org/""/>
+<link href=""https://bakercountypress.com/xmlrpc.php?rsd"" rel=""EditURI"" title=""RSD"" type=""application/rsd+xml""/>
+<link href=""https://bakercountypress.com/wp-includes/wlwmanifest.xml"" rel=""wlwmanifest"" type=""application/wlwmanifest+xml""/>
+<meta content=""WordPress 4.9.1"" name=""generator""/>
+<!-- WP Menubar 5.6.3: start CSS -->
+<!-- WP Menubar 5.6.3: end CSS -->
+<link href=""https://bakercountypress.com/wp-content/plugins/wp-cart-for-digital-products/wp_eStore_style.css"" rel=""stylesheet"" type=""text/css""/>
+<link href=""https://bakercountypress.com/wp-content/plugins/wp-cart-for-digital-products/wp_eStore_custom_style.css"" rel=""stylesheet"" type=""text/css""/>
+<!-- WP eStore plugin v6.9.8.0 - http://www.tipsandtricks-hq.com/wordpress-estore-plugin-complete-solution-to-sell-digital-products-from-your-wordpress-blog-securely-1059/ -->
+<script type=""text/javascript"">
+	JS_WP_ESTORE_CURRENCY_SYMBOL = ""$"";
+	JS_WP_ESTORE_VARIATION_ADD_STRING = ""+"";
+	JS_WP_ESTORE_VARIATION_THOUSAND_SEPERATOR = "","";
+	JS_WP_ESTORE_MINIMUM_PRICE_YOU_CAN_ENTER = ""The minimum amount you can specify is "";
+	</script><script src=""https://bakercountypress.com/wp-content/plugins/wp-cart-for-digital-products/lib/eStore_read_form.js"" type=""text/javascript""></script><!-- <meta name=""NextGEN"" version=""2.2.14"" /> -->
+<meta content=""v1"" name=""tec-api-version""/><meta content=""https://bakercountypress.com"" name=""tec-api-origin""/><link href=""https://bakercountypress.com/wp-json/tribe/events/v1/"" rel=""https://theeventscalendar.com/""/><link href=""https://bakercountypress.com/wp-content/themes/sahifa/favicon.ico"" rel=""shortcut icon"" title=""Favicon""/>
+<meta content=""width=device-width, initial-scale=1, maximum-scale=1"" name=""viewport""/>
+<link href=""https://bakercountypress.com/wp-content/themes/sahifa/css/style-yellow.css"" media=""all"" rel=""stylesheet"" type=""text/css""/>
+<style media=""screen"" type=""text/css""> 
+
+.background-cover{
+	background-color:#ffffff;
+	background-image : url('') ;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='',sizingMethod='scale');
+	-ms-filter: ""progid:DXImageTransform.Microsoft.AlphaImageLoader(src='',sizingMethod='scale')"";
+}
+
+body{
+	font-family: 'Verdana';
+}
+
+.logo h1 a, .logo h2 a{
+	font-family: 'Verdana';
+}
+
+.logo span{
+	font-family: 'Verdana';
+}
+
+.top-nav, .top-nav ul li a {
+	font-family: 'Verdana';
+	color :#ffffff;
+	font-weight: normal;
+	font-style: normal;
+}
+
+#main-nav, #main-nav ul li a{
+	font-family: 'Verdana';
+	color :#ffffff;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.page-title{
+	font-family: 'Verdana';
+	font-size : 12px;
+	font-weight: bold;
+}
+
+.post-title{
+	font-family: 'Verdana';
+	font-weight: bold;
+}
+
+h2.post-box-title{
+	font-family: 'Verdana';
+	font-weight: bold;
+}
+
+h3.post-box-title{
+	font-family: 'Verdana';
+	font-weight: bold;
+}
+
+p.post-meta, p.post-meta a{
+	font-family: 'Verdana';
+}
+
+body.single .entry, body.page .entry{
+	font-family: 'Verdana';
+}
+
+.ei-title h2 , .slider-caption h2 a, .content .slider-caption h2 a, .slider-caption h2, .content .slider-caption h2, .content .ei-title h2{
+	font-family: 'Verdana';
+	color :#993333;
+	font-weight: bold;
+}
+
+.cat-box-title h2, .cat-box-title h2 a, .block-head h3, #respond h3, #comments-title, h2.review-box-header{
+	font-family: 'Verdana';
+}
+#main-nav,.cat-box-content,#sidebar .widget-container,.post-listing {border-bottom-color: #993333;}
+.search-block .search-button,
+#topcontrol,
+#main-nav ul li.current-menu-item a,
+#main-nav ul li.current-menu-item a:hover,
+#main-nav ul li.current-menu-parent a,
+#main-nav ul li.current-menu-parent a:hover,
+#main-nav ul li.current-page-ancestor a,
+#main-nav ul li.current-page-ancestor a:hover,
+.pagination span.current,
+.share-post span.share-text,
+.flex-control-paging li a.flex-active,
+.ei-slider-thumbs li.ei-slider-element,
+.review-percentage .review-item span span,.review-final-score   {
+	background-color:#993333 !important;
+}
+::-webkit-scrollbar-thumb{background-color:#993333 !important;}
+footer, .top-nav, .top-nav ul li.current-menu-item:after  {border-top-color: #993333;}
+.search-block:after {border-right-color:#993333;}
+.top-nav, .top-nav ul ul {background:#993333 url('') repeat scroll left top;}
+.top-nav ul li a , .top-nav ul ul a {
+	color: #ffffff !important;}
+.top-nav ul li a:hover, .top-nav ul li:hover > a, .top-nav ul :hover > a , .top-nav ul li.current-menu-item a  {
+	color: #000000 !important;}
+.today-date {
+	background: #993333;	color: #ffffff;}
+#main-nav ul ul {background-color:#993333 !important;;}
+#main-nav ul li a , #main-nav ul ul a , #main-nav ul.sub-menu a ,  #main-nav ul li.current-menu-item ul a, #main-nav ul li.current-menu-parent ul a, #main-nav ul li.current-page-ancestor ul a{
+	color: #ffffff !important;	}
+#main-nav ul li {
+	border-color: #000000;
+}
+#main-nav ul ul li, #main-nav ul ul li:first-child {
+	border-top-color: #000000;
+}
+#main-nav ul li a {
+	border-left-color: #000000;
+}
+#main-nav ul ul li, #main-nav ul ul li:first-child {
+	border-bottom-color: #000000;
+}
+.cat-box-content, #sidebar .widget-container, .post-listing, .column2 li.first-news, .wide-box li.first-news {background:#ffffff url('') repeat    !important;}
+.breaking-news span {background: #006666;}
+body.single .post .entry a, body.page .post .entry a {
+	color: #993333;	}
+body.single .post .entry a:hover, body.page .post .entry a:hover {
+	color: #006666;	}
+
+</style>
+<link href=""https://bakercountypress.com/wp-content/plugins/interstitial-ads-pro/css/interads.css?ver=1.0"" id=""ujinter-interads-css"" media=""all"" rel=""stylesheet"" type=""text/css""/>
+</head>
+<body class=""home blog tribe-no-js"" data-rsssl=""1"" id=""top"">
+<div class=""background-cover""></div>
+<div class=""wrapper"">
+<header>
+<div class=""top-nav"">
+<span class=""today-date"">Wednesday, December 6, 2017</span>
+<div class=""top-menu""><ul class=""menu"" id=""menu-top""><li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-3453"" id=""menu-item-3453""><a href=""https://bakercountypress.com/wp-login.php?redirect_to=%2F%3Foption%3Dcom_content%26view%3Darticle%26id%3D1781%3Abugs-in-codered-alert-system-apparent-after-boil-water-notice%26catid%3D59%3Anews%26Itemid%3D57"">Log In</a></li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-3827"" id=""menu-item-3827""><a href=""https://bakercountypress.com/contact-us/"">Contact Us</a></li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-3620"" id=""menu-item-3620""><a href=""https://bakercountypress.com/submit-an-ad/"">Submit an Ad</a></li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3621"" id=""menu-item-3621""><a href=""https://bakercountypress.com/submit-an-article/"">Submit an Article</a>
+<ul class=""sub-menu"">
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-3623"" id=""menu-item-3623""><a href=""https://bakercountypress.com/50th-anniversary-announcement/"">50th Anniversary Announcement</a></li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-3624"" id=""menu-item-3624""><a href=""https://bakercountypress.com/birth-announcement/"">Birth Announcement</a></li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-3662"" id=""menu-item-3662""><a href=""https://bakercountypress.com/wedding-announcement/"">Wedding Announcement</a></li>
+</ul>
+</li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-60219"" id=""menu-item-60219""><a href=""https://bakercountypress.com/subscription-options/"">Subscribe/Register</a>
+<ul class=""sub-menu"">
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-60221"" id=""menu-item-60221""><a href=""https://bakercountypress.com/subscription-options/print-edition-subscription/"">One year Print Edition subscription</a></li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-3666"" id=""menu-item-3666""><a href=""https://bakercountypress.com/subscription-options/free-registration/"">Free registration</a></li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-3665"" id=""menu-item-3665""><a href=""https://bakercountypress.com/subscription-options/1-month-recurring-subscription/"">1 Month Recurring Subscription</a></li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-3664"" id=""menu-item-3664""><a href=""https://bakercountypress.com/subscription-options/12-month-recurring-subscription/"">12 month recurring online subscription</a></li>
+</ul>
+</li>
+</ul></div>
+<div class=""search-block"">
+<form action=""https://bakercountypress.com/"" id=""searchform"" method=""get"">
+<input class=""search-button"" type=""submit"" value=""Search""/>
+<input id=""s"" name=""s"" onblur=""if (this.value == '') {this.value = 'Search...';}"" onfocus=""if (this.value == 'Search...') {this.value = '';}"" type=""text"" value=""Search...""/>
+</form>
+</div><!-- .search-block /-->
+</div><!-- .top-menu /-->
+<div class=""header-content"">
+<div class=""logo"">
+<h1> <a href=""https://bakercountypress.com/"" title=""The Baker County Press"">
+<img alt=""The Baker County Press"" src=""https://bakercountypress.com/wp-content/uploads/2016/01/press-website-logorvd_20161.jpg""/><strong>The Baker County Press Baker County's Circulation Leader</strong>
+</a>
+</h1> </div><!-- .logo /-->
+<div class=""ads-top"">
+<a href=""https://bakercountypress.com/print-edition-subscription/"" target=""_blank"" title=""Save and Subscribe!"">
+<img alt=""Save and Subscribe!"" src=""https://bakercountypress.com/wp-content/uploads/2016/12/Press-subscription-web_2016.jpg""/>
+</a>
+</div> <div class=""clear""></div>
+</div>
+<nav class=""fixed-enabled"" id=""main-nav"">
+<div class=""main-menu""><ul class=""menu"" id=""menu-main""><li class=""menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home menu-item-3270"" id=""menu-item-3270""><a href=""https://bakercountypress.com"">Home</a></li>
+<li class=""menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3263"" id=""menu-item-3263""><a href=""https://bakercountypress.com/category/newspaper/news/"">News</a>
+<ul class=""sub-menu"">
+<li class=""menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3265"" id=""menu-item-3265""><a href=""https://bakercountypress.com/category/newspaper/features/"">Features</a></li>
+<li class=""menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3264"" id=""menu-item-3264""><a href=""https://bakercountypress.com/category/newspaper/sports/"">Sports</a></li>
+<li class=""menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4283"" id=""menu-item-4283""><a href=""https://bakercountypress.com/category/social/"">Social</a></li>
+<li class=""menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3266"" id=""menu-item-3266""><a href=""https://bakercountypress.com/category/newspaper/c58-schools/"">Schools</a></li>
+</ul>
+</li>
+<li class=""menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3262"" id=""menu-item-3262""><a href=""https://bakercountypress.com/category/newspaper/opinion/"">Opinion</a>
+<ul class=""sub-menu"">
+<li class=""menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3858"" id=""menu-item-3858""><a href=""https://bakercountypress.com/category/newspaper/cartoons/"">Cartoons</a></li>
+<li class=""menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30810"" id=""menu-item-30810""><a href=""https://bakercountypress.com/category/newspaper/opinion/podcasts/"">Podcasts</a></li>
+</ul>
+</li>
+<li class=""menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3261"" id=""menu-item-3261""><a href=""https://bakercountypress.com/category/newspaper/obituaries/"">Obituaries</a></li>
+<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3482"" id=""menu-item-3482""><a href=""#"">Photos</a>
+<ul class=""sub-menu"">
+<li class=""menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3806"" id=""menu-item-3806""><a href=""https://bakercountypress.com/category/photos/news-photos/"">News</a></li>
+<li class=""menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3477"" id=""menu-item-3477""><a href=""https://bakercountypress.com/category/photos/sports_photos/"">Sports</a></li>
+<li class=""menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4165"" id=""menu-item-4165""><a href=""https://bakercountypress.com/category/photos/events/"">Events</a></li>
+<li class=""menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3805"" id=""menu-item-3805""><a href=""https://bakercountypress.com/category/photos/flashback-photos/"">Flashback</a></li>
+</ul>
+</li>
+<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-26628"" id=""menu-item-26628""><a href=""https://bakercountypress.com/calendar/month/"">Calendar</a></li>
+<li class=""menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3326"" id=""menu-item-3326""><a href=""https://bakercountypress.com/category/s6-classifieds/"">Classifieds</a>
+<ul class=""sub-menu"">
+<li class=""menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4964"" id=""menu-item-4964""><a href=""https://bakercountypress.com/category/s6-classifieds/business-directory/"">Business Directory</a></li>
+</ul>
+</li>
+<li class=""menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3493"" id=""menu-item-3493""><a href=""https://bakercountypress.com/category/legals/"">Legal Notices</a></li>
+<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3765"" id=""menu-item-3765""><a href=""#"">E-edition</a>
+<ul class=""sub-menu"">
+<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-4543"" id=""menu-item-4543""><a href=""https://bakercountypress.com/?p=4534"">Newspaper 2012</a></li>
+<li class=""menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3766"" id=""menu-item-3766""><a href=""https://bakercountypress.com/category/the_press_files/2013-newspaper/"">Newspaper-2013</a></li>
+<li class=""menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9546"" id=""menu-item-9546""><a href=""https://bakercountypress.com/category/the_press_files/2014-newspaper/"">Newspaper-2014</a></li>
+<li class=""menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18628"" id=""menu-item-18628""><a href=""https://bakercountypress.com/category/the_press_files/2015-newspaper/"">Newspaper-2015</a></li>
+<li class=""menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31241"" id=""menu-item-31241""><a href=""https://bakercountypress.com/category/the_press_files/2016-newspapers/"">Newspaper-2016</a></li>
+<li class=""menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46202"" id=""menu-item-46202""><a href=""https://bakercountypress.com/category/the_press_files/newspaper_2017/"">Newspaper-2017</a></li>
+</ul>
+</li>
+<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4766"" id=""menu-item-4766""><a href=""#"">Ad Rates</a>
+<ul class=""sub-menu"">
+<li class=""menu-item menu-item-type-custom menu-item-object-custom menu-item-4767"" id=""menu-item-4767""><a href=""https://bakercountypress.com/?p=23080"">Rate Card</a></li>
+<li class=""menu-item menu-item-type-post_type menu-item-object-page menu-item-4768"" id=""menu-item-4768""><a href=""https://bakercountypress.com/online-advertising-rates/"">Online Advertising Rates</a></li>
+</ul>
+</li>
+</ul></div> </nav><!-- .main-nav /-->
+</header><!-- #header /-->
+<div class=""container"" id=""main-content"">
+<div class=""content"">
+<div class=""flexslider"" id=""flexslider"">
+<ul class=""slides"">
+<li>
+<a href=""https://bakercountypress.com/2017/12/wildcats-advance-to-class-5a-state-championship-game/"">
+<img alt=""Wildcats advance to Class 5A state championship game"" class=""attachment-660x330 size-660x330"" height=""153"" src=""https://bakercountypress.com/wp-content/uploads/2016/09/wildcats-logo.jpg"" title=""Wildcats advance to Class 5A state championship game"" width=""201""/> </a>
+<div class=""slider-caption"">
+<h2><a href=""https://bakercountypress.com/2017/12/wildcats-advance-to-class-5a-state-championship-game/"">Wildcats advance to Class 5A state championship game</a></h2>
+<p>The BCHS Wildcats are going to the state championship for the first time in program history. Seth Pa...</p>
+</div>
+</li>
+<li>
+<a href=""https://bakercountypress.com/2017/11/press-podcast-going-down-in-history-episode-103/"">
+<img alt=""Press Podcast – Going down in history – Episode 103"" class=""attachment-660x330 size-660x330"" height=""330"" src=""https://bakercountypress.com/wp-content/uploads/2017/06/podcast-promo-660x330.jpg"" title=""Press Podcast – Going down in history – Episode 103"" width=""660""/> </a>
+<div class=""slider-caption"">
+<h2><a href=""https://bakercountypress.com/2017/11/press-podcast-going-down-in-history-episode-103/"">Press Podcast – Going down in history – Episode 103</a></h2>
+<p>In Episode 103 of The Press Podcast, managing editor Joel Addington and sports editor Jon Shumake ta...</p>
+</div>
+</li>
+<li>
+<a href=""https://bakercountypress.com/2017/11/fire-and-ems-fee-hikes-are-pending/"">
+<img alt=""Fire and EMS fee hikes are pending"" class=""attachment-660x330 size-660x330"" height=""330"" src=""https://bakercountypress.com/wp-content/uploads/2017/01/2017-county-commission-with-seal-660x330.jpg"" title=""Fire and EMS fee hikes are pending"" width=""660""/> </a>
+<div class=""slider-caption"">
+<h2><a href=""https://bakercountypress.com/2017/11/fire-and-ems-fee-hikes-are-pending/"">Fire and EMS fee hikes are pending</a></h2>
+<p>County commissioners are moving ahead with imposing higher special assessments for emergency medical...</p>
+</div>
+</li>
+<li>
+<a href=""https://bakercountypress.com/2017/11/black-friday-hits-here-thursday/"">
+<img alt=""‘Black Friday’ hits here Thursday"" class=""attachment-660x330 size-660x330"" height=""330"" src=""https://bakercountypress.com/wp-content/uploads/2017/11/IMG_1888-660x330.jpg"" title=""‘Black Friday’ hits here Thursday"" width=""660""/> </a>
+<div class=""slider-caption"">
+<h2><a href=""https://bakercountypress.com/2017/11/black-friday-hits-here-thursday/"">‘Black Friday’ hits here Thursday</a></h2>
+<p>It was a chaotic scene at Walmart as Black Friday shopping got underway even before Thanksgiving Day...</p>
+</div>
+</li>
+<li>
+<a href=""https://bakercountypress.com/2017/11/report-opioid-crisis-deepens/"">
+<img alt=""Report: Opioid crisis deepens"" class=""attachment-660x330 size-660x330"" height=""330"" src=""https://bakercountypress.com/wp-content/uploads/2016/11/opioids-660x330.jpg"" title=""Report: Opioid crisis deepens"" width=""660""/> </a>
+<div class=""slider-caption"">
+<h2><a href=""https://bakercountypress.com/2017/11/report-opioid-crisis-deepens/"">Report: Opioid crisis deepens</a></h2>
+<p>Baker County has not been slammed as hard by the opioid epidemic as many of the state’s more urban a...</p>
+</div>
+</li>
+<li>
+<a href=""https://bakercountypress.com/2017/11/residents-go-nuts-for-mr-peanut-visit/"">
+<img alt=""Residents go ‘nuts’ for Mr. Peanut visit"" class=""attachment-660x330 size-660x330"" height=""330"" src=""https://bakercountypress.com/wp-content/uploads/2017/11/IMG_1540-1-660x330.jpg"" title=""Residents go ‘nuts’ for Mr. Peanut visit"" width=""660""/> </a>
+<div class=""slider-caption"">
+<h2><a href=""https://bakercountypress.com/2017/11/residents-go-nuts-for-mr-peanut-visit/"">Residents go ‘nuts’ for Mr. Peanut visit</a></h2>
+<p>Mr. Peanut, the iconic symbol for Planters peanuts since being created by a 14-year-old boy in 1916 ...</p>
+</div>
+</li>
+<li>
+<a href=""https://bakercountypress.com/2017/11/pull-some-ditches-says-commissioner-bennett/"">
+<img alt=""‘Pull some ditches’ says Commissioner Bennett"" class=""attachment-660x330 size-660x330"" height=""330"" src=""https://bakercountypress.com/wp-content/uploads/2017/11/37257691664_afddee2e6b_z-660x330.jpg"" title=""‘Pull some ditches’ says Commissioner Bennett"" width=""660""/> </a>
+<div class=""slider-caption"">
+<h2><a href=""https://bakercountypress.com/2017/11/pull-some-ditches-says-commissioner-bennett/"">‘Pull some ditches’ says Commissioner Bennett</a></h2>
+<p>County commissioner James Bennett wants a dialogue on how the county maintains its hundreds of miles...</p>
+</div>
+</li>
+<li>
+<a href=""https://bakercountypress.com/2017/11/cats-final-four-bound-after-dropping-clay-from-playoffs/"">
+<img alt=""Cats final four bound after dropping Clay from playoffs"" class=""attachment-660x330 size-660x330"" height=""330"" src=""https://bakercountypress.com/wp-content/uploads/2017/11/3D8A9442-660x330.jpg"" title=""Cats final four bound after dropping Clay from playoffs"" width=""660""/> </a>
+<div class=""slider-caption"">
+<h2><a href=""https://bakercountypress.com/2017/11/cats-final-four-bound-after-dropping-clay-from-playoffs/"">Cats final four bound after dropping Clay from playoffs</a></h2>
+<p>Turnovers on their first two possession weren’t enough to deter the BCHS Wildcats. Neither was Aundr...</p>
+</div>
+</li>
+<li>
+<a href=""https://bakercountypress.com/2017/11/wildcats-win-despite-sloppy-offensive-play/"">
+<img alt=""Wildcats win despite sloppy offensive play"" class=""attachment-660x330 size-660x330"" height=""330"" sizes=""(max-width: 466px) 100vw, 466px"" src=""https://bakercountypress.com/wp-content/uploads/2017/11/Will-Vickers.jpg"" srcset=""https://bakercountypress.com/wp-content/uploads/2017/11/Will-Vickers.jpg 648w, https://bakercountypress.com/wp-content/uploads/2017/11/Will-Vickers-300x213.jpg 300w"" title=""Wildcats win despite sloppy offensive play"" width=""466""/> </a>
+<div class=""slider-caption"">
+<h2><a href=""https://bakercountypress.com/2017/11/wildcats-win-despite-sloppy-offensive-play/"">Wildcats win despite sloppy offensive play</a></h2>
+<p>Two home matches, two wins for the BCHS Wildcat boys soccer team. Josh Walton scored the go-ahead go...</p>
+</div>
+</li>
+<li>
+<a href=""https://bakercountypress.com/2017/11/cheer-team-heading-to-nationals/"">
+<img alt=""Cheer team heading to nationals"" class=""attachment-660x330 size-660x330"" height=""330"" src=""https://bakercountypress.com/wp-content/uploads/2017/11/Baker-County-Wildcats-14u-Large-Red1-660x330.jpg"" title=""Cheer team heading to nationals"" width=""660""/> </a>
+<div class=""slider-caption"">
+<h2><a href=""https://bakercountypress.com/2017/11/cheer-team-heading-to-nationals/"">Cheer team heading to nationals</a></h2>
+<p>The Baker County AYF 14-and-under cheerleading team is going back to the national competition for th...</p>
+</div>
+</li>
+</ul>
+</div>
+<script>
+jQuery(window).load(function() {
+  jQuery('#flexslider').flexslider({
+    animation: ""fade"",	slideshowSpeed: 7000,
+	animationSpeed: 600,
+	randomize: false,
+	pauseOnHover: true,
+	start: function(slider) {
+       		var slide_control_width = 100/15;
+    		jQuery('.flex-control-nav li').css('width', slide_control_width+'%');
+      	}
+  });
+});
+</script>
+<div class=""home-ads""><div class=""sam-container sam-ad"" id=""c8932_7_2""><a class=""sam_ad"" href=""http://www.LionBank.com/tfc"" id=""a8932_7"" target=""_blank""><img alt=""Totally Free Checking"" src=""https://bakercountypress.com/wp-content/uploads/2017/08/fidelity_bank_FTC.png""/></a></div>
+</div>
+<div class=""clear""></div>
+<section class=""cat-box list-box"">
+<div class=""cat-box-title"">
+<h2><a href=""https://bakercountypress.com/category/newspaper/news/"">News</a></h2>
+<div class=""stripe-line""></div>
+</div><!-- post-thumbnail /-->
+<div class=""cat-box-content"">
+<ul>
+<li class=""first-news"">
+<div class=""post-thumbnail"">
+<a href=""https://bakercountypress.com/2017/11/fire-and-ems-fee-hikes-are-pending/"" rel=""bookmark"" title=""Permalink to Fire and EMS fee hikes are pending"">
+<img alt=""Fire and EMS fee hikes are pending"" class=""attachment-272x125 size-272x125"" height=""125"" src=""https://bakercountypress.com/wp-content/uploads/2017/01/2017-county-commission-with-seal-272x125.jpg"" title=""Fire and EMS fee hikes are pending"" width=""272""/> <span class=""overlay-icon""></span>
+</a>
+</div><!-- post-thumbnail /-->
+<h2 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/fire-and-ems-fee-hikes-are-pending/"" rel=""bookmark"" title=""Permalink to Fire and EMS fee hikes are pending"">Fire and EMS fee hikes are pending</a></h2>
+<p class=""post-meta"">
+<span>November 29, 2017</span> <a href=""https://bakercountypress.com/2017/11/fire-and-ems-fee-hikes-are-pending/#respond"">Leave a comment</a> </p>
+<div class=""entry"">
+								County commissioners are moving ahead with imposing higher special assessments for emergency medical and fire protection services, which could be in place for the 2018-19 fiscal year.								<a class=""more-link"" href=""https://bakercountypress.com/2017/11/fire-and-ems-fee-hikes-are-pending/"">Read More »</a>
+</div>
+</li><!-- .first-news -->
+<li class=""other-news"">
+<h3 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/meth-dealer-who-fled-cops-gets-9-years/"" rel=""bookmark"" title=""Permalink to Meth dealer who fled cops gets 9 years"">Meth dealer who fled cops gets 9 years</a></h3>
+<p class=""post-meta"">
+<span>November 29, 2017</span> <a href=""https://bakercountypress.com/2017/11/meth-dealer-who-fled-cops-gets-9-years/#respond"">Leave a comment</a> </p>
+</li>
+<li class=""other-news"">
+<h3 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/arrested-for-attack-on-his-mom/"" rel=""bookmark"" title=""Permalink to Arrested for attack on his mom"">Arrested for attack on his mom</a></h3>
+<p class=""post-meta"">
+<span>November 29, 2017</span> <a href=""https://bakercountypress.com/2017/11/arrested-for-attack-on-his-mom/#respond"">Leave a comment</a> </p>
+</li>
+<li class=""other-news"">
+<h3 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/haygood-formally-charged-with-felony/"" rel=""bookmark"" title=""Permalink to Haygood formally charged with felony"">Haygood formally charged with felony</a></h3>
+<p class=""post-meta"">
+<span>November 29, 2017</span> <a href=""https://bakercountypress.com/2017/11/haygood-formally-charged-with-felony/#respond"">Leave a comment</a> </p>
+</li>
+<li class=""other-news"">
+<h3 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/fake-911-calls-end-in-arrest/"" rel=""bookmark"" title=""Permalink to Fake 911 calls end in arrest"">Fake 911 calls end in arrest</a></h3>
+<p class=""post-meta"">
+<span>November 29, 2017</span> <a href=""https://bakercountypress.com/2017/11/fake-911-calls-end-in-arrest/#respond"">Leave a comment</a> </p>
+</li>
+</ul>
+<div class=""clear""></div>
+</div><!-- .cat-box-content /-->
+</section><!-- List Box -->
+<section class=""cat-box list-box"">
+<div class=""cat-box-title"">
+<h2><a href=""https://bakercountypress.com/category/newspaper/sports/"">Sports</a></h2>
+<div class=""stripe-line""></div>
+</div><!-- post-thumbnail /-->
+<div class=""cat-box-content"">
+<ul>
+<li class=""first-news"">
+<div class=""post-thumbnail"">
+<a href=""https://bakercountypress.com/2017/12/wildcats-advance-to-class-5a-state-championship-game/"" rel=""bookmark"" title=""Permalink to Wildcats advance to Class 5A state championship game"">
+<img alt=""Wildcats advance to Class 5A state championship game"" class=""attachment-272x125 size-272x125"" height=""125"" src=""https://bakercountypress.com/wp-content/uploads/2016/09/wildcats-logo.jpg"" title=""Wildcats advance to Class 5A state championship game"" width=""164""/> <span class=""overlay-icon""></span>
+</a>
+</div><!-- post-thumbnail /-->
+<h2 class=""post-box-title""><a href=""https://bakercountypress.com/2017/12/wildcats-advance-to-class-5a-state-championship-game/"" rel=""bookmark"" title=""Permalink to Wildcats advance to Class 5A state championship game"">Wildcats advance to Class 5A state championship game</a></h2>
+<p class=""post-meta"">
+<span>December 2, 2017</span> <a href=""https://bakercountypress.com/2017/12/wildcats-advance-to-class-5a-state-championship-game/#respond"">Leave a comment</a> </p>
+<div class=""entry"">
+								The BCHS Wildcats are going to the state championship for the first time in program history. Seth Paige rushed for four touchdowns Friday night, and the Cats pulled away with a 48-28 win at Pensacola's West Florida Tech in the Class 5A semifinals.								<a class=""more-link"" href=""https://bakercountypress.com/2017/12/wildcats-advance-to-class-5a-state-championship-game/"">Read More »</a>
+</div>
+</li><!-- .first-news -->
+<li class=""other-news"">
+<div class=""post-thumbnail"">
+<a href=""https://bakercountypress.com/2017/11/cats-final-four-bound-after-dropping-clay-from-playoffs/"" rel=""bookmark"" title=""Permalink to Cats final four bound after dropping Clay from playoffs""><img alt=""Cats final four bound after dropping Clay from playoffs"" class=""attachment-55x55 size-55x55"" height=""55"" sizes=""(max-width: 55px) 100vw, 55px"" src=""https://bakercountypress.com/wp-content/uploads/2017/11/3D8A9442-55x55.jpg"" srcset=""https://bakercountypress.com/wp-content/uploads/2017/11/3D8A9442-55x55.jpg 55w, https://bakercountypress.com/wp-content/uploads/2017/11/3D8A9442-150x150.jpg 150w"" title=""Cats final four bound after dropping Clay from playoffs"" width=""55""/></a>
+</div><!-- post-thumbnail /-->
+<h3 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/cats-final-four-bound-after-dropping-clay-from-playoffs/"" rel=""bookmark"" title=""Permalink to Cats final four bound after dropping Clay from playoffs"">Cats final four bound after dropping Clay from playoffs</a></h3>
+<p class=""post-meta"">
+<span>November 29, 2017</span> <a href=""https://bakercountypress.com/2017/11/cats-final-four-bound-after-dropping-clay-from-playoffs/#respond"">Leave a comment</a> </p>
+</li>
+<li class=""other-news"">
+<h3 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/final-four-cats-visit-pensacola-in-5a-semis/"" rel=""bookmark"" title=""Permalink to Final Four: Cats visit Pensacola in 5A semis"">Final Four: Cats visit Pensacola in 5A semis</a></h3>
+<p class=""post-meta"">
+<span>November 29, 2017</span> <a href=""https://bakercountypress.com/2017/11/final-four-cats-visit-pensacola-in-5a-semis/#respond"">Leave a comment</a> </p>
+</li>
+<li class=""other-news"">
+<div class=""post-thumbnail"">
+<a href=""https://bakercountypress.com/2017/11/wildcats-win-despite-sloppy-offensive-play/"" rel=""bookmark"" title=""Permalink to Wildcats win despite sloppy offensive play""><img alt=""Wildcats win despite sloppy offensive play"" class=""attachment-55x55 size-55x55"" height=""55"" sizes=""(max-width: 55px) 100vw, 55px"" src=""https://bakercountypress.com/wp-content/uploads/2017/11/Will-Vickers-55x55.jpg"" srcset=""https://bakercountypress.com/wp-content/uploads/2017/11/Will-Vickers-55x55.jpg 55w, https://bakercountypress.com/wp-content/uploads/2017/11/Will-Vickers-150x150.jpg 150w"" title=""Wildcats win despite sloppy offensive play"" width=""55""/></a>
+</div><!-- post-thumbnail /-->
+<h3 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/wildcats-win-despite-sloppy-offensive-play/"" rel=""bookmark"" title=""Permalink to Wildcats win despite sloppy offensive play"">Wildcats win despite sloppy offensive play</a></h3>
+<p class=""post-meta"">
+<span>November 29, 2017</span> <a href=""https://bakercountypress.com/2017/11/wildcats-win-despite-sloppy-offensive-play/#respond"">Leave a comment</a> </p>
+</li>
+<li class=""other-news"">
+<div class=""post-thumbnail"">
+<a href=""https://bakercountypress.com/2017/11/cheer-team-heading-to-nationals/"" rel=""bookmark"" title=""Permalink to Cheer team heading to nationals""><img alt=""Cheer team heading to nationals"" class=""attachment-55x55 size-55x55"" height=""55"" sizes=""(max-width: 55px) 100vw, 55px"" src=""https://bakercountypress.com/wp-content/uploads/2017/11/Baker-County-Wildcats-14u-Large-Red1-55x55.jpg"" srcset=""https://bakercountypress.com/wp-content/uploads/2017/11/Baker-County-Wildcats-14u-Large-Red1-55x55.jpg 55w, https://bakercountypress.com/wp-content/uploads/2017/11/Baker-County-Wildcats-14u-Large-Red1-150x150.jpg 150w"" title=""Cheer team heading to nationals"" width=""55""/></a>
+</div><!-- post-thumbnail /-->
+<h3 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/cheer-team-heading-to-nationals/"" rel=""bookmark"" title=""Permalink to Cheer team heading to nationals"">Cheer team heading to nationals</a></h3>
+<p class=""post-meta"">
+<span>November 29, 2017</span> <a href=""https://bakercountypress.com/2017/11/cheer-team-heading-to-nationals/#respond"">Leave a comment</a> </p>
+</li>
+</ul>
+<div class=""clear""></div>
+</div><!-- .cat-box-content /-->
+</section><!-- List Box -->
+<section class=""cat-box list-box"">
+<div class=""cat-box-title"">
+<h2><a href=""https://bakercountypress.com/category/newspaper/features/"">Features</a></h2>
+<div class=""stripe-line""></div>
+</div><!-- post-thumbnail /-->
+<div class=""cat-box-content"">
+<ul>
+<li class=""first-news"">
+<div class=""post-thumbnail"">
+<a href=""https://bakercountypress.com/2017/11/black-friday-hits-here-thursday/"" rel=""bookmark"" title=""Permalink to ‘Black Friday’ hits here Thursday"">
+<img alt=""‘Black Friday’ hits here Thursday"" class=""attachment-272x125 size-272x125"" height=""125"" src=""https://bakercountypress.com/wp-content/uploads/2017/11/IMG_1888-272x125.jpg"" title=""‘Black Friday’ hits here Thursday"" width=""272""/> <span class=""overlay-icon""></span>
+</a>
+</div><!-- post-thumbnail /-->
+<h2 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/black-friday-hits-here-thursday/"" rel=""bookmark"" title=""Permalink to ‘Black Friday’ hits here Thursday"">‘Black Friday’ hits here Thursday</a></h2>
+<p class=""post-meta"">
+<span>November 29, 2017</span> <a href=""https://bakercountypress.com/2017/11/black-friday-hits-here-thursday/#respond"">Leave a comment</a> </p>
+<div class=""entry"">
+								It was a chaotic scene at Walmart as Black Friday shopping got underway even before Thanksgiving Day ended. The sales there kicked off on Thursday evening. By mid-day on Black Friday though, most of the frantic shoppers were gone.								<a class=""more-link"" href=""https://bakercountypress.com/2017/11/black-friday-hits-here-thursday/"">Read More »</a>
+</div>
+</li><!-- .first-news -->
+<li class=""other-news"">
+<h3 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/sooner-or-later-youll-meet-a-turkey/"" rel=""bookmark"" title=""Permalink to Sooner or later, you’ll meet a turkey"">Sooner or later, you’ll meet a turkey</a></h3>
+<p class=""post-meta"">
+<span>November 29, 2017</span> <a href=""https://bakercountypress.com/2017/11/sooner-or-later-youll-meet-a-turkey/#comments"">1 Comment</a> </p>
+</li>
+<li class=""other-news"">
+<div class=""post-thumbnail"">
+<a href=""https://bakercountypress.com/2017/11/residents-go-nuts-for-mr-peanut-visit/"" rel=""bookmark"" title=""Permalink to Residents go ‘nuts’ for Mr. Peanut visit""><img alt=""Residents go ‘nuts’ for Mr. Peanut visit"" class=""attachment-55x55 size-55x55"" height=""55"" sizes=""(max-width: 55px) 100vw, 55px"" src=""https://bakercountypress.com/wp-content/uploads/2017/11/IMG_1540-1-55x55.jpg"" srcset=""https://bakercountypress.com/wp-content/uploads/2017/11/IMG_1540-1-55x55.jpg 55w, https://bakercountypress.com/wp-content/uploads/2017/11/IMG_1540-1-150x150.jpg 150w"" title=""Residents go ‘nuts’ for Mr. Peanut visit"" width=""55""/></a>
+</div><!-- post-thumbnail /-->
+<h3 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/residents-go-nuts-for-mr-peanut-visit/"" rel=""bookmark"" title=""Permalink to Residents go ‘nuts’ for Mr. Peanut visit"">Residents go ‘nuts’ for Mr. Peanut visit</a></h3>
+<p class=""post-meta"">
+<span>November 29, 2017</span> <a href=""https://bakercountypress.com/2017/11/residents-go-nuts-for-mr-peanut-visit/#respond"">Leave a comment</a> </p>
+</li>
+<li class=""other-news"">
+<div class=""post-thumbnail"">
+<a href=""https://bakercountypress.com/2017/11/local-heritage-tapped-for-family-fun-festival/"" rel=""bookmark"" title=""Permalink to Local heritage tapped for family-fun festival""><img alt=""Local heritage tapped for family-fun festival"" class=""attachment-55x55 size-55x55"" height=""55"" sizes=""(max-width: 55px) 100vw, 55px"" src=""https://bakercountypress.com/wp-content/uploads/2017/11/IMG_1581-55x55.jpg"" srcset=""https://bakercountypress.com/wp-content/uploads/2017/11/IMG_1581-55x55.jpg 55w, https://bakercountypress.com/wp-content/uploads/2017/11/IMG_1581-150x150.jpg 150w"" title=""Local heritage tapped for family-fun festival"" width=""55""/></a>
+</div><!-- post-thumbnail /-->
+<h3 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/local-heritage-tapped-for-family-fun-festival/"" rel=""bookmark"" title=""Permalink to Local heritage tapped for family-fun festival"">Local heritage tapped for family-fun festival</a></h3>
+<p class=""post-meta"">
+<span>November 21, 2017</span> <a href=""https://bakercountypress.com/2017/11/local-heritage-tapped-for-family-fun-festival/#respond"">Leave a comment</a> </p>
+</li>
+<li class=""other-news"">
+<h3 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/they-met-cuz-tillis/"" rel=""bookmark"" title=""Permalink to They met ‘cuz’ Tillis"">They met ‘cuz’ Tillis</a></h3>
+<p class=""post-meta"">
+<span>November 21, 2017</span> <a href=""https://bakercountypress.com/2017/11/they-met-cuz-tillis/#respond"">Leave a comment</a> </p>
+</li>
+</ul>
+<div class=""clear""></div>
+</div><!-- .cat-box-content /-->
+</section><!-- List Box -->
+<div class=""home-ads""></div>
+<div class=""clear""></div>
+<div class=""home-ads""></div>
+<div class=""clear""></div>
+<div class=""cat-box-content clear cat-box"" id=""cats-tabs-box"">
+<div class=""cat-tabs-header"">
+<ul>
+<li><a href=""#catab96"">Schools</a></li>
+<li><a href=""#catab103"">Opinion</a></li>
+</ul>
+</div>
+<div class=""cat-tabs-wrap"" id=""catab96"">
+<ul>
+<li class=""first-news"">
+<h2 class=""post-box-title""><a href=""https://bakercountypress.com/2017/12/bcms-honor-band-selections-named/"" rel=""bookmark"" title=""Permalink to BCMS honor band selections named"">BCMS honor band selections named</a></h2>
+<p class=""post-meta"">
+<span>December 6, 2017</span> <a href=""https://bakercountypress.com/2017/12/bcms-honor-band-selections-named/#respond"">Leave a comment</a> </p>
+<div class=""entry"">
+							Congratulations to the following Baker County Middle School students for winning seats in the North Florida Honor Band (NFHB): Memona Arshad (Bb clarinet), Reagan Chester (flute), Eliza Clines (flute), RJ Clines (trumpet), Lylli Cruse (trombone), Brea Gentry (percussion), Emma Harrell (Bb clarinet), Elizabeth Hernandez (French horn), Nikky Martin (percussion), Makenna Payne (trumpet), David Prosch (alto saxophone), Alexa Raulerson (Bb clarinet), ...							<a class=""more-link"" href=""https://bakercountypress.com/2017/12/bcms-honor-band-selections-named/"">Read More »</a>
+</div>
+</li><!-- .first-news -->
+<li>
+<h3 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/christmas-party-musical/"" rel=""bookmark"" title=""Permalink to ‘Christmas Party’ musical"">‘Christmas Party’ musical</a></h3>
+<p class=""post-meta"">
+<span>November 29, 2017</span> <a href=""https://bakercountypress.com/2017/11/christmas-party-musical/#respond"">Leave a comment</a> </p>
+</li>
+<li>
+<div class=""post-thumbnail"">
+<a href=""https://bakercountypress.com/2017/11/operation-christmas-child-boxes-packed/"" rel=""bookmark"" title=""Permalink to Operation Christmas Child boxes packed""><img alt=""Operation Christmas Child boxes packed"" class=""attachment-60x50 size-60x50"" height=""50"" sizes=""(max-width: 50px) 100vw, 50px"" src=""https://bakercountypress.com/wp-content/uploads/2017/11/20171117_100229-copy-150x150.jpg"" srcset=""https://bakercountypress.com/wp-content/uploads/2017/11/20171117_100229-copy-150x150.jpg 150w, https://bakercountypress.com/wp-content/uploads/2017/11/20171117_100229-copy-55x55.jpg 55w"" title=""Operation Christmas Child boxes packed"" width=""50""/></a>
+</div><!-- post-thumbnail /-->
+<h3 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/operation-christmas-child-boxes-packed/"" rel=""bookmark"" title=""Permalink to Operation Christmas Child boxes packed"">Operation Christmas Child boxes packed</a></h3>
+<p class=""post-meta"">
+<span>November 21, 2017</span> <a href=""https://bakercountypress.com/2017/11/operation-christmas-child-boxes-packed/#respond"">Leave a comment</a> </p>
+</li>
+<li>
+<h3 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/r-o-a-r-students-for-november/"" rel=""bookmark"" title=""Permalink to R.O.A.R. students for November"">R.O.A.R. students for November</a></h3>
+<p class=""post-meta"">
+<span>November 21, 2017</span> <a href=""https://bakercountypress.com/2017/11/r-o-a-r-students-for-november/#respond"">Leave a comment</a> </p>
+</li>
+<li>
+<div class=""post-thumbnail"">
+<a href=""https://bakercountypress.com/2017/11/holidays-ushered-in-at-westside/"" rel=""bookmark"" title=""Permalink to Holidays ushered in at Westside""><img alt=""Holidays ushered in at Westside"" class=""attachment-60x50 size-60x50"" height=""50"" sizes=""(max-width: 50px) 100vw, 50px"" src=""https://bakercountypress.com/wp-content/uploads/2017/11/Michelle-Yaracs-and-Melissa-Clark-150x150.jpg"" srcset=""https://bakercountypress.com/wp-content/uploads/2017/11/Michelle-Yaracs-and-Melissa-Clark-150x150.jpg 150w, https://bakercountypress.com/wp-content/uploads/2017/11/Michelle-Yaracs-and-Melissa-Clark-55x55.jpg 55w"" title=""Holidays ushered in at Westside"" width=""50""/></a>
+</div><!-- post-thumbnail /-->
+<h3 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/holidays-ushered-in-at-westside/"" rel=""bookmark"" title=""Permalink to Holidays ushered in at Westside"">Holidays ushered in at Westside</a></h3>
+<p class=""post-meta"">
+<span>November 21, 2017</span> <a href=""https://bakercountypress.com/2017/11/holidays-ushered-in-at-westside/#respond"">Leave a comment</a> </p>
+</li>
+</ul>
+<div class=""clear""></div>
+</div>
+<div class=""cat-tabs-wrap"" id=""catab103"">
+<ul>
+<li class=""first-news"">
+<div class=""post-thumbnail"">
+<a href=""https://bakercountypress.com/2017/11/press-podcast-going-down-in-history-episode-103/"" rel=""bookmark"" title=""Permalink to Press Podcast – Going down in history – Episode 103"">
+<img alt=""Press Podcast – Going down in history – Episode 103"" class=""attachment-272x125 size-272x125"" height=""125"" src=""https://bakercountypress.com/wp-content/uploads/2017/06/podcast-promo-272x125.jpg"" title=""Press Podcast – Going down in history – Episode 103"" width=""272""/> <span class=""overlay-icon""></span>
+</a>
+</div><!-- post-thumbnail /-->
+<h2 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/press-podcast-going-down-in-history-episode-103/"" rel=""bookmark"" title=""Permalink to Press Podcast – Going down in history – Episode 103"">Press Podcast – Going down in history – Episode 103</a></h2>
+<p class=""post-meta"">
+<span>November 30, 2017</span> <a href=""https://bakercountypress.com/2017/11/press-podcast-going-down-in-history-episode-103/#respond"">Leave a comment</a> </p>
+<div class=""entry"">
+							In Episode 103 of The Press Podcast, managing editor Joel Addington and sports editor Jon Shumake take a look back at the BCHS Wildcat football team's win over Clay to advance to the Class 5A state semifinals. They also talk about Black Friday, the county's fire/EMS assessment, the middle school basketball program's success and the upcoming Christmas Parade. The Press ...							<a class=""more-link"" href=""https://bakercountypress.com/2017/11/press-podcast-going-down-in-history-episode-103/"">Read More »</a>
+</div>
+</li><!-- .first-news -->
+<li>
+<h3 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/put-up-or-shut-up-on-the-opioid-crisis/"" rel=""bookmark"" title=""Permalink to Put up or shut up on the opioid crisis"">Put up or shut up on the opioid crisis</a></h3>
+<p class=""post-meta"">
+<span>November 29, 2017</span> <a href=""https://bakercountypress.com/2017/11/put-up-or-shut-up-on-the-opioid-crisis/#respond"">Leave a comment</a> </p>
+</li>
+<li>
+<h3 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/what-our-mothers-would-say-about-us-today/"" rel=""bookmark"" title=""Permalink to What our mothers would say about us today"">What our mothers would say about us today</a></h3>
+<p class=""post-meta"">
+<span>November 29, 2017</span> <a href=""https://bakercountypress.com/2017/11/what-our-mothers-would-say-about-us-today/#respond"">Leave a comment</a> </p>
+</li>
+<li>
+<div class=""post-thumbnail"">
+<a href=""https://bakercountypress.com/2017/11/press-podcast-the-peoples-peanut-episode-102/"" rel=""bookmark"" title=""Permalink to Press Podcast – The People’s Peanut – Episode 102""><img alt=""Press Podcast – The People’s Peanut – Episode 102"" class=""attachment-60x50 size-60x50"" height=""50"" sizes=""(max-width: 50px) 100vw, 50px"" src=""https://bakercountypress.com/wp-content/uploads/2017/06/podcast-promo-150x150.jpg"" srcset=""https://bakercountypress.com/wp-content/uploads/2017/06/podcast-promo-150x150.jpg 150w, https://bakercountypress.com/wp-content/uploads/2017/06/podcast-promo-55x55.jpg 55w"" title=""Press Podcast – The People’s Peanut – Episode 102"" width=""50""/></a>
+</div><!-- post-thumbnail /-->
+<h3 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/press-podcast-the-peoples-peanut-episode-102/"" rel=""bookmark"" title=""Permalink to Press Podcast – The People’s Peanut – Episode 102"">Press Podcast – The People’s Peanut – Episode 102</a></h3>
+<p class=""post-meta"">
+<span>November 21, 2017</span> <a href=""https://bakercountypress.com/2017/11/press-podcast-the-peoples-peanut-episode-102/#respond"">Leave a comment</a> </p>
+</li>
+<li>
+<h3 class=""post-box-title""><a href=""https://bakercountypress.com/2017/11/thanksgiving-why-its-the-best/"" rel=""bookmark"" title=""Permalink to Thanksgiving: Why it’s ‘the best’"">Thanksgiving: Why it’s ‘the best’</a></h3>
+<p class=""post-meta"">
+<span>November 21, 2017</span> <a href=""https://bakercountypress.com/2017/11/thanksgiving-why-its-the-best/#respond"">Leave a comment</a> </p>
+</li>
+</ul>
+<div class=""clear""></div>
+</div>
+</div><!-- #cats-tabs-box /-->
+</div><!-- .content /-->
+<aside id=""sidebar"">
+<div class=""widget widget_polls-widget"" id=""polls-widget-4""><div class=""widget-top""><h4>Poll</h4><div class=""stripe-line""></div></div>
+<div class=""widget-container""><div class=""wp-polls"" id=""polls-210"">
+<form action=""/index.php"" class=""wp-polls-form"" id=""polls_form_210"" method=""post"">
+<p style=""display: none;""><input id=""poll_210_nonce"" name=""wp-polls-nonce"" type=""hidden"" value=""33467ca1f1""/></p>
+<p style=""display: none;""><input name=""poll_id"" type=""hidden"" value=""210""/></p>
+<p style=""text-align: center;""><strong>What's the best part of the annual Macclenny Christmas festivities?</strong></p>
+<div class=""wp-polls-ans"" id=""polls-210-ans"">
+<ul class=""wp-polls-ul"">
+<li><input id=""poll-answer-828"" name=""poll_210"" type=""radio"" value=""828""/> <label for=""poll-answer-828"">Lighted parade floats</label></li>
+<li><input id=""poll-answer-829"" name=""poll_210"" type=""radio"" value=""829""/> <label for=""poll-answer-829"">Craft and business booths</label></li>
+<li><input id=""poll-answer-830"" name=""poll_210"" type=""radio"" value=""830""/> <label for=""poll-answer-830"">Food vendors</label></li>
+<li><input id=""poll-answer-831"" name=""poll_210"" type=""radio"" value=""831""/> <label for=""poll-answer-831"">Live music</label></li>
+<li><input id=""poll-answer-832"" name=""poll_210"" type=""radio"" value=""832""/> <label for=""poll-answer-832"">Socializing</label></li>
+<li><input id=""poll-answer-833"" name=""poll_210"" type=""radio"" value=""833""/> <label for=""poll-answer-833"">Decorations downtown</label></li>
+</ul>
+<p style=""text-align: center;""><input class=""Buttons"" name=""vote"" onclick=""poll_vote(210);"" type=""button"" value=""   Vote   ""/></p>
+<p style=""text-align: center;""><a href=""#ViewPollResults"" onclick=""poll_result(210); return false;"" title=""View Results Of This Poll"">View Results</a></p>
+</div>
+</form>
+</div>
+</div></div><!-- .widget /--><div class=""widget simple_ads_manager_widget"" id=""simple_ads_manager_widget-11""><div class=""widget-top""><h4> </h4><div class=""stripe-line""></div></div>
+<div class=""widget-container""><div class=""sam-container sam-place"" data-sam=""0"" id=""c7337_0_5""></div></div></div><!-- .widget /--><div class=""widget widget_as_facebook_mem_likebox"" id=""as_facebook_mem_likebox_widgets""><div class=""widget-top""><h4>Find us on facebook</h4><div class=""stripe-line""></div></div>
+<div class=""widget-container""><div id=""likeboxwrap"" style=""width:290px; height:253px; background: #FFFFFF; border:1px solid #; overflow:hidden;""><div id=""likebox-frame""><iframe allowtransparency=""true"" frameborder=""0"" scrolling=""no"" src=""//www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2F356521567781&amp;tabs=&amp;width=292&amp;height=255&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;show_border=false&amp;header=false"" style=""border:none; overflow:hidden; width:292px; height:255px; margin:-1px;""></iframe></div></div></div></div><!-- .widget /--><div class=""widget widget_youtube-channel"" id=""youtube-channel-2""><div class=""widget-top""><h4>Video</h4><div class=""stripe-line""></div></div>
+<div class=""widget-container""><div class=""youtube_channel default responsive ytc_display_thumbnail""><div class=""ytc_video_container ytc_video_1 ytc_video_first ar16_9"" style=""width:306px""><a class=""ytc_thumb ytc-lightbox ar16_9"" href=""//www.youtube.com/watch?v=DPQnkor921E"" title=""Video medley: MES veterans tribute, Mr.  Peanut visit and Heritage Day""><span id=""ytc_DPQnkor921E"" style=""background-image: url(//img.youtube.com/vi/DPQnkor921E/hqdefault.jpg);"" title=""Video medley: MES veterans tribute, Mr.  Peanut visit and Heritage Day""></span></a></div><!-- .ytc_video_container --></div><!-- .youtube_channel --><div class=""clearfix""></div></div></div><!-- .widget /--></aside> <div class=""clear""></div>
+</div><!-- .container /-->
+<footer>
+<div class=""footer-2c"" id=""footer-widget-area"">
+</div><!-- #footer-widget-area -->
+<div class=""clear""></div>
+</footer><!-- .Footer /-->
+<div class=""clear""></div>
+<div class=""footer-bottom"">
+<div class=""container"">
+<div class=""alignright"">
+</div>
+<div class=""alignleft"">
+				The Baker County Press | 104 South Fifth Street | Macclenny, FL 32063 | 904-259-2400			</div>
+</div><!-- .Container -->
+</div><!-- .Footer bottom -->
+</div><!-- .Wrapper -->
+<div id=""topcontrol"">Scroll To Top</div>
+<!-- ngg_resource_manager_marker --><script type=""text/javascript"">if (typeof(_agmMaps) == ""undefined"") _agmMaps = [];</script><script type=""text/javascript"">if (typeof(_agmWmi) == ""undefined"") _agmWmi={
+				""add_marker"": 0,
+				""shortcode_only"": 0,
+				""auto_center"": 0,
+				""marker_label"": ""This is you"",
+				""icon"": """"
+			};</script><script type=""text/javascript"">var _agm = {""ajax_url"":""https:\/\/bakercountypress.com\/wp-admin\/admin-ajax.php"",""root_url"":""https:\/\/bakercountypress.com\/wp-content\/plugins\/wpmu_dev_maps_plugin"",""is_multisite"":0,""libraries"":[""panoramio""]};</script> <script>
+      if (document.location.protocol != ""https:"") {
+          document.location = document.URL.replace(/^http:/i, ""https:"");
+      }
+      </script>
+<script type=""text/javascript"">
+/* <![CDATA[ */
+var pollsL10n = {""ajax_url"":""https:\/\/bakercountypress.com\/wp-admin\/admin-ajax.php"",""text_wait"":""Your last request is still being processed. Please wait a while ..."",""text_valid"":""Please choose a valid poll answer."",""text_multiple"":""Maximum number of choices allowed: "",""show_loading"":""0"",""show_fading"":""0""};
+/* ]]> */
+</script>
+<script src=""https://bakercountypress.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.73.8"" type=""text/javascript""></script>
+<script src=""https://bakercountypress.com/wp-content/plugins/youtube-channel/assets/lib/magnific-popup/jquery.magnific-popup.min.js?ver=3.0.11.3"" type=""text/javascript""></script>
+<script src=""https://bakercountypress.com/wp-content/plugins/page-links-to/js/new-tab.min.js?ver=2.9.8"" type=""text/javascript""></script>
+<script data-cfasync=""false"" src=""https://bakercountypress.com/wp-content/plugins/s2member/s2member-o.php?ws_plugin__s2member_js_w_globals=1&amp;qcABC=1&amp;ver=170722-170722-4020932188"" type=""text/javascript""></script>
+<script src=""https://bakercountypress.com/wp-includes/js/wp-embed.min.js?ver=4.9.1"" type=""text/javascript""></script>
+<script type=""text/javascript"">
+/* <![CDATA[ */
+var interAds = {""is_cached"":""true"",""id_post"":""9557"",""is_front"":""1"",""ajaxurl"":""https:\/\/bakercountypress.com\/wp-admin\/admin-ajax.php""};
+/* ]]> */
+</script>
+<script src=""https://bakercountypress.com/wp-content/plugins/interstitial-ads-pro/js/interads.js?ver=1.0"" type=""text/javascript""></script>
+<script type=""text/javascript"">
+jQuery(document).ready(function($) {
+    $(function() {
+    	$('[class*=eStore]').find('a[rel*=lightbox]').lightBox({
+    	imageLoading: 'https://bakercountypress.com/wp-content/plugins/wp-cart-for-digital-products/images/lightbox/lightbox-ico-loading.gif',
+    	imageBtnClose: 'https://bakercountypress.com/wp-content/plugins/wp-cart-for-digital-products/images/lightbox/lightbox-btn-close.gif',
+    	imageBtnPrev: 'https://bakercountypress.com/wp-content/plugins/wp-cart-for-digital-products/images/lightbox/lightbox-btn-prev.gif',
+    	imageBtnNext: 'https://bakercountypress.com/wp-content/plugins/wp-cart-for-digital-products/images/lightbox/lightbox-btn-next.gif',
+    	imageBlank: 'https://bakercountypress.com/wp-content/plugins/wp-cart-for-digital-products/images/lightbox/lightbox-blank.gif',
+    	txtImage: 'Image',
+    	txtOf: 'of'
+        });
+    });    
+});
+</script>
+<script type=""text/javascript"">
+jQuery.noConflict();
+jQuery(document).ready(function($) {
+$(function() {
+	if ($('.t-and-c').length ) {
+	    //Terms and condtions is being used so apply validation
+	}else{
+		return;
+	}
+	$('.t_and_c_error').hide();
+   $("".t-and-c"").click(function(){
+       if($("".t-and-c"").is(':checked')){  
+    	  $.cookie(""eStore_submit_payment"",""true"",{path: '/'}); 
+          $('.t_and_c_error').hide();          
+       }
+       else{
+    	   $.cookie(""eStore_submit_payment"",""false"",{path: '/'});	
+       }                 
+   });    
+   $("".eStore_paypal_checkout_button"").click(function(e){
+       if(!$("".t-and-c"").is(':checked')){
+           $('.t_and_c_error').show();
+           e.preventDefault();         
+       }
+   });   
+   $("".eStore_buy_now_button"").click(function(e){
+       if(!$("".t-and-c"").is(':checked')){
+           $('.t_and_c_error').show();
+           e.preventDefault();         
+       }
+   });   
+   $("".eStore_subscribe_button"").click(function(e){
+       if(!$("".t-and-c"").is(':checked')){
+           $('.t_and_c_error').show();
+           e.preventDefault();         
+       }
+   }); 
+	$("".free_download_submit"").click(function(e) {//Non-Ajax free download squeeze page button clicked	
+		if(!$("".t-and-c"").is(':checked')){
+			$('.t_and_c_error').show();
+			e.preventDefault();
+		}
+	});   
+ });
+ });
+</script>
+<script type=""text/javascript"">
+jQuery.noConflict();
+jQuery(document).ready(function($) {
+$(function() {
+	var shipping_var_warning_class = $('.shipping_var_changed');
+	var shipping_var_warning_default_class = $('.shipping_var_changed_default');
+	shipping_var_warning_class.hide();
+	$('.shipping_variation').change(function(){
+		shipping_var_warning_default_class.hide();
+		shipping_var_warning_class.show();
+	});
+	var eStore_shipping_var_needs_update = false;
+	if(shipping_var_warning_class.is("":visible"")){eStore_shipping_var_needs_update = true;}
+	else if(shipping_var_warning_default_class.is("":visible"")){eStore_shipping_var_needs_update = true;}	
+	$("".eStore_paypal_checkout_button"").click(function(e){//Check if shipping variation has been selected
+		if(eStore_shipping_var_needs_update){
+	    	shipping_var_warning_class.css({'border':'1px solid red','padding':'5px'});
+	    	shipping_var_warning_default_class.css({'border':'1px solid red','padding':'5px'});
+	    	e.preventDefault();
+		}
+	});	
+ });
+ });
+</script>
+<script type=""text/javascript"">
+jQuery.noConflict();
+jQuery(document).ready(function($) {
+$(function(){
+	var eStore_cart_item_qty = $('.eStore_cart_item_qty');
+	eStore_cart_item_qty.keypress(function(){
+		$('.eStore_qty_change_pinfo').show();
+	});
+ });
+ });
+</script>
+<!-- YouTube Channel 3 --><script type=""text/javascript"">function ytc_init_MPAU() {jQuery('.ytc-lightbox').magnificPopupAU({disableOn:320,type:'iframe',mainClass:'ytc-mfp-lightbox',removalDelay:160,preloader:false,fixedContentPos:false});}jQuery(window).on('load',function(){ytc_init_MPAU();});jQuery(document).ajaxComplete(function(){ytc_init_MPAU();});</script> <script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+<script type=""text/javascript""> /* <![CDATA[ */var tribe_l10n_datatables = {""aria"":{""sort_ascending"":"": activate to sort column ascending"",""sort_descending"":"": activate to sort column descending""},""length_menu"":""Show _MENU_ entries"",""empty_table"":""No data available in table"",""info"":""Showing _START_ to _END_ of _TOTAL_ entries"",""info_empty"":""Showing 0 to 0 of 0 entries"",""info_filtered"":""(filtered from _MAX_ total entries)"",""zero_records"":""No matching records found"",""search"":""Search:"",""all_selected_text"":""All items on this page were selected. "",""select_all_link"":""Select all pages"",""clear_selection"":""Clear Selection."",""pagination"":{""all"":""All"",""next"":""Next"",""previous"":""Previous""},""select"":{""rows"":{""0"":"""",""_"":"": Selected %d rows"",""1"":"": Selected 1 row""}},""datepicker"":{""dayNames"":[""Sunday"",""Monday"",""Tuesday"",""Wednesday"",""Thursday"",""Friday"",""Saturday""],""dayNamesShort"":[""Sun"",""Mon"",""Tue"",""Wed"",""Thu"",""Fri"",""Sat""],""dayNamesMin"":[""S"",""M"",""T"",""W"",""T"",""F"",""S""],""monthNames"":[""January"",""February"",""March"",""April"",""May"",""June"",""July"",""August"",""September"",""October"",""November"",""December""],""monthNamesShort"":[""January"",""February"",""March"",""April"",""May"",""June"",""July"",""August"",""September"",""October"",""November"",""December""],""nextText"":""Next"",""prevText"":""Prev"",""currentText"":""Today"",""closeText"":""Done""}};/* ]]> */ </script></body>
+</html>"
